@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+title:            'Marmot Demo'
+description:      'Historic photographs from the CMHC and LCPL collections, Leadville City Directories, Leadville City Jail records, digitized documents, maps, video and audio recordings, and other items that represent the changes of Leadville and Lake County through time'
+url:              'http://awoods.io.s3-website.us-west-1.amazonaws.com'
+baseurl:          '/a'
+copyright:        'Copyright Lake County Public Library, 2020'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -64,13 +64,83 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  leadville: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'leadville_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'leadville.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/leadville' # path to the directory of images within `_data`
+  photos: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'photos_item' # the layout for the pages to use
+    metadata:
+      source: 'photos.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/photos' # path to the directory of images within `_data`
+  maps:
+    output: true
+    layout: 'photos_item'
+    metadata:
+      source: 'maps.csv'
+    images:
+      source: 'raw_images/maps'
+  docs:
+    output: true
+    layout: 'photos_item'
+    metadata:
+      source: 'docs.csv'
+    images:
+      source: 'raw_images/docs'
+  climax:
+    output: true
+    layout: 'photos_item'
+    metadata:
+      source: 'climax.csv'
+    images:
+      source: 'raw_images/climax'
+  brisbois:
+    output: true
+    layout: 'photos_item'
+    metadata:
+      source: 'brisbois.csv'
+    images:
+      source: 'raw_images/brisbois'
+  school:
+    output: true
+    layout: 'photos_item'
+    metadata:
+      source: 'school.csv'
+    images:
+      source: 'raw_images/school'
+  tabors:
+    output: true
+    layout: 'leadville_item'
+    metadata:
+      source: 'tabors.csv'
+    images:
+      source: 'raw_images/tabors'
+  hale:
+    output: true
+    layout: 'leadville_item'
+    metadata:
+      source: 'hale.csv'
+    images:
+      source: 'raw_images/hale'
+  palace:
+    output: true
+    layout: 'leadville_item'
+    metadata:
+      source: 'palace.csv'
+    images:
+      source: 'raw_images/palace'
+  cemetery:
+    output: true
+    layout: 'leadville_item'
+    metadata:
+      source: 'cemetery.csv'
+    images:
+      source: 'raw_images/cemetery'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,15 +154,149 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      leadville:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
           - location
           - label
           - _date
           - object_type
           - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      photos:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      maps:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      docs:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      climax:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      brisbois:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      school:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      tabors:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      hale:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      palace:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
+      cemetery:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+          - keywords
+          - caption
+          - named_persons
+          - source
+          - credit
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -101,27 +305,39 @@ search:
 # (where it goes). An item can optionally have a dropdown
 # submenu via `sub`.
 
-menu:
-  - label: 'About'
-    sub:
-      - label: 'Wax'
-        link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
+menu:  
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
+  - label: 'Browse Collections'
+    sub:
+      - label: 'Leadville'
+        link: '/leadville/'
+      - label: 'Historic Photos'
+        link: '/photos/'
+      - label: 'Maps'
+        link: '/maps/'
+      - label: 'Documents and Books'
+        link: '/docs/'
+      - label: 'Climax'
+        link: '/climax/'
+      - label: 'Brisbois Photos'
+        link: '/brisbois/'
+      - label: 'High Schole Annuals'
+        link: '/school/'
+      - label: 'The Tabors'
+        link: '/tabors/'
+      - label: 'Camp Hale'
+        link: '/hale/'
+      - label: 'Ice Palace'
+        link: '/palace/'
+      - label: 'Evergreen Cemetery'
+        link: '/cemetery/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -131,11 +347,9 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
-      link: '/credits'
+      link: 'https://github.com/awoods'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: '/contact'
   logos:
     - img: '/img/logo.png'
 

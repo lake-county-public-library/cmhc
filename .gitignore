@@ -4,3 +4,10 @@ _site
 .DS_Store
 Gemfile.lock
 package-lock.json
+img/derivatives/*
+*~
+
+notes.txt
+s3_website.yml
+*.swp
+_data/raw_images/*

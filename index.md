@@ -2,16 +2,24 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
-  y: 25%
+  collection: leadville
+  pid: 00001cc
+  y: 95%
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
-
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
-
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_galleries.html collections='photos,leadville,maps,docs,climax,brisbois,school,tabors,hale,palace,cemetery' %}
+
+# Colorado Mountain History Collection
+
+This special, non-circulating collection is housed in our beautiful Leadville Room and contains over 4000 items of various media relating to the history of Leadville and the surrounding areas. The collection is available for Lake County genealogical research. The digital and physical collections are always growing, see the CMHC Digitization and Collection Development Plan for more information.
+
+Researchers are welcome to utilize the collection during business hours. Library staff can assist you with your searches, show you where our sources are located, and help you get started.
+
+For those unable to come to Leadville, our local history staff can perform limited searches for you. Due to the volume of requests we receive, please allow at least 12-14 business days for a response to your request. Requests are processed in the order in which they are received. Please include as much information in your request as possible that will assist in expediting the search, including resources/records already searched/found.  
+ 
+Research is performed within the resources we hold; we do not perform research at other sites, including churches, other libraries, etc. We also cannot handle extensive requests, i.e. researching an entire family line, or tracing the entire history of a building or house.
+ 
+Contact Holly Henning with your inquiries by emailing <a href="mailto:holly@lakecountypubliclibrary.org">holly@lakecountypubliclibrary.org</a> or by calling <a href="tel:719-486-0569">719-486-0569</a>.
