@@ -1,0 +1,29 @@
+{% assign collections = include.collections | split: "," %}
+
+
+<div id='wax-gallery-{{ collection }}-container' class='wax-gallery-container full-width'>
+
+<div class='wax-inline-container'>
+  {% for collection in collections %}
+  <div id="wax-gallery-{{ collection }}" class="wax-gallery"></div>
+  
+
+
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+    var container = $('#wax-gallery-{{ collection }}-container');
+    var gallery = $('#wax-gallery-{{ collection }}');
+    var buttonDiv = $('#{{ collection }}-facet-buttons');
+
+    {% assign item = site[collection][0] %}
+    {%- capture item_html -%}
+      "<div class='gallery-item {{ item[label] | slugify }} all'><a href='{{ collection | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}' alt='{{ item.label }}'/><div class='overlay'><p class='info'>{{ item.label }}</p></div></div></a></div>"
+    {%- endcapture -%}
+    gallery.append({{ item_html | strip_newlines }});
+  });
+</script>
+
+{% endfor %}
+</div>
+</div>
