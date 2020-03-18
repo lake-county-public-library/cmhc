@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Marmot Demo'
+title:            'CMHC'
 description:      'Historic photographs from the CMHC and LCPL collections, Leadville City Directories, Leadville City Jail records, digitized documents, maps, video and audio recordings, and other items that represent the changes of Leadville and Lake County through time'
-url:              'http://awoods.io.s3-website.us-west-1.amazonaws.com'
-baseurl:          '/a'
+url:              'http://history.lakecountypubliclibrary.org'
+baseurl:          '/cmhc'
 copyright:        'Copyright Lake County Public Library, 2020'
 logo:             '/assets/logo.png'
 
