@@ -10,7 +10,12 @@ banner:
 
 ### Browse the Collection
 
-{% include collection_galleries.html collections='photos,leadville,maps,docs,climax,brisbois,school,tabors,hale,palace,cemetery' %}
+{% include collection_galleries.html
+	collection='leadville'
+	facet='label'
+	facet_values='Historic Photos,Unidentified,Maps,Documents and Books,Climax,Brisbois Photos,High School Annuals,The Tabors,Camp Hale,Ice Palace,Evergreen Cemetery' %}
+
+<a href='{{ "full" | absolute_url }}'>Full Collection</a>
 
 # Colorado Mountain History Collection
 

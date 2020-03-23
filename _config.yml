@@ -71,76 +71,6 @@ collections:
       source: 'leadville.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/leadville' # path to the directory of images within `_data`
-  photos: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: 'photos_item' # the layout for the pages to use
-    metadata:
-      source: 'photos.csv' # path to the metadata file within `_data`
-    images:
-      source: 'raw_images/photos' # path to the directory of images within `_data`
-  maps:
-    output: true
-    layout: 'photos_item'
-    metadata:
-      source: 'maps.csv'
-    images:
-      source: 'raw_images/maps'
-  docs:
-    output: true
-    layout: 'photos_item'
-    metadata:
-      source: 'docs.csv'
-    images:
-      source: 'raw_images/docs'
-  climax:
-    output: true
-    layout: 'photos_item'
-    metadata:
-      source: 'climax.csv'
-    images:
-      source: 'raw_images/climax'
-  brisbois:
-    output: true
-    layout: 'photos_item'
-    metadata:
-      source: 'brisbois.csv'
-    images:
-      source: 'raw_images/brisbois'
-  school:
-    output: true
-    layout: 'photos_item'
-    metadata:
-      source: 'school.csv'
-    images:
-      source: 'raw_images/school'
-  tabors:
-    output: true
-    layout: 'leadville_item'
-    metadata:
-      source: 'tabors.csv'
-    images:
-      source: 'raw_images/tabors'
-  hale:
-    output: true
-    layout: 'leadville_item'
-    metadata:
-      source: 'hale.csv'
-    images:
-      source: 'raw_images/hale'
-  palace:
-    output: true
-    layout: 'leadville_item'
-    metadata:
-      source: 'palace.csv'
-    images:
-      source: 'raw_images/palace'
-  cemetery:
-    output: true
-    layout: 'leadville_item'
-    metadata:
-      source: 'cemetery.csv'
-    images:
-      source: 'raw_images/cemetery'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -166,137 +96,7 @@ search:
           - caption
           - named_persons
           - source
-          - credit
-      photos:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      maps:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      docs:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      climax:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      brisbois:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      school:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      tabors:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      hale:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      palace:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
-      cemetery:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
-          - keywords
-          - caption
-          - named_persons
-          - source
-          - credit
+          - credit      
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -314,8 +114,8 @@ menu:
         link: '/exhibits/b/'
   - label: 'Browse Collections'
     sub:
-      - label: 'Leadville'
-        link: '/leadville/'
+      - label: 'Unidentified'
+        link: '/unidentified/'
       - label: 'Historic Photos'
         link: '/photos/'
       - label: 'Maps'
@@ -326,7 +126,7 @@ menu:
         link: '/climax/'
       - label: 'Brisbois Photos'
         link: '/brisbois/'
-      - label: 'High Schole Annuals'
+      - label: 'High School Annuals'
         link: '/school/'
       - label: 'The Tabors'
         link: '/tabors/'
