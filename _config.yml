@@ -88,7 +88,7 @@ search:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - location
-          - _date
+          - creation_date
           - format
           - keywords
           - description
