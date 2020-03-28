@@ -88,15 +88,13 @@ search:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - location
-          - label
           - _date
-          - object_type
-          - current_location
+          - format
           - keywords
-          - caption
+          - description
           - named_persons
           - source
-          - credit      
+          - rights
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
