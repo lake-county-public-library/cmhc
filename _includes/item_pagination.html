@@ -1,4 +1,4 @@
-{% assign links = site[page.collection] | sort: 'order' | map: 'url' %}
+{% assign links = site[page.collection] | where: 'key', page.key | sort: 'order' | map: 'url' %}
 {% for link in links %}
   {% if link == page.url %}
     {% if forloop.first %}
