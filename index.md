@@ -13,7 +13,7 @@ banner:
 {% include collection_galleries.html
 	collection='leadville'
 	facet='label'
-	facet_values='Historic Photos,Unidentified,Maps,Documents and Books,Climax,Brisbois Photos,High School Annuals,The Tabors,Camp Hale,Ice Palace,Evergreen Cemetery' %}
+	facet_values='Brisbois Photos,Camp Hale,Climax,Documents and Books,Evergreen Cemetery,High School Annuals,Historic Photos,Ice Palace,Maps,The Tabors,Unidentified' %}
 
 <a href='{{ "full" | absolute_url }}'>Full Collection</a>
 
