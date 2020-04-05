@@ -1,0 +1,51 @@
+@import 'wax';
+
+/*
+
+lcpl header section
+
+*/
+
+#lcpl-header-main {
+	width: 100vw;
+	max-width: 100%;
+	border-bottom: 1px solid $text-color;
+}
+
+.lcpl-inline-container {
+  @extend .wax-inline-container;
+}
+
+#lcpl-header {
+  background-color: $bg-color;
+  /*
+  border-bottom: 1px solid $text-color;
+  */
+  font-family: $heading-font;
+  color: $text-color;
+  z-index: 100000;
+  padding: $margin;
+  letter-spacing: 0.075rem;
+
+  img {
+  	max-width: 90%;
+  } 
+
+  .navbar-brand {
+    font-weight: 700;
+    color: $accent-light;
+    font-size: 2rem;
+    white-space: normal;
+  }
+
+  .navbar-brand:hover {
+    color: $accent-dark;
+  }
+
+  #wax-header {
+  	padding: 0.75rem;
+  	border-bottom: none;
+  }
+
+ }
+

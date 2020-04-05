@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'CMHC'
+title:            'Colorado Mountain History Collection'
 description:      'Historic photographs from the CMHC and LCPL collections, Leadville City Directories, Leadville City Jail records, digitized documents, maps, video and audio recordings, and other items that represent the changes of Leadville and Lake County through time'
 url:              'http://history.lakecountypubliclibrary.org'
 baseurl:          '/cmhc'
