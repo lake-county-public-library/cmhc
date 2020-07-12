@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: leadville
+  collection: cmhc
   pid: 00001cc
   y: 95%
   height: '500px'
@@ -11,9 +11,9 @@ banner:
 ### Browse the Collection
 
 {% include collection_galleries.html
-	collection='leadville'
+	collection='cmhc'
 	facet='label'
-	facet_values='Brisbois Photos,Camp Hale,Climax,Documents and Books,Evergreen Cemetery,High School Annuals,Historic Photos,Ice Palace,Maps,The Tabors,Unidentified' %}
+	facet_values='Buildings & Businesses,Climax,Leadville,Mining,Outside Lake County,People,Railroad Images' %}
 
 <a href='{{ "full" | absolute_url }}'>Full Collection</a>
 
