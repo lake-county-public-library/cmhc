@@ -64,13 +64,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  leadville: # name of collection
+  cmhc: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'leadville_item' # the layout for the pages to use
+    layout: 'cmhc_item' # the layout for the pages to use
     metadata:
-      source: 'leadville.csv' # path to the metadata file within `_data`
+      source: 'cmhc.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/leadville' # path to the directory of images within `_data`
+      source: 'raw_images/cmhc' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,7 +84,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      leadville:
+      cmhc:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - location
@@ -112,28 +112,20 @@ menu:
         link: '/exhibits/b/'
   - label: 'Browse Collections'
     sub:
-      - label: 'Unidentified'
-        link: '/unidentified/'
-      - label: 'Historic Photos'
-        link: '/photos/'
-      - label: 'Maps'
-        link: '/maps/'
-      - label: 'Documents and Books'
-        link: '/docs/'
+      - label: 'Buildings & Businesses'
+        link: '/bandb/'
       - label: 'Climax'
         link: '/climax/'
-      - label: 'Brisbois Photos'
-        link: '/brisbois/'
-      - label: 'High School Annuals'
-        link: '/school/'
-      - label: 'The Tabors'
-        link: '/tabors/'
-      - label: 'Camp Hale'
-        link: '/hale/'
-      - label: 'Ice Palace'
-        link: '/palace/'
-      - label: 'Evergreen Cemetery'
-        link: '/cemetery/'
+      - label: 'Leadville'
+        link: '/leadville/'
+      - label: 'Mining'
+        link: '/mining/'
+      - label: 'Outside Lake County'
+        link: '/outside/'
+      - label: 'People'
+        link: '/people/'
+      - label: 'Railroad Images'
+        link: '/rail/'
   - label: 'Search'
     link: '/search/'
 
