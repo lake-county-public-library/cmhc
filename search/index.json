@@ -3,6 +3,22 @@ layout: none
 ---
 [
   {
+    "pid": "00059cc",
+    "label": "Leadville",
+    "location": null,
+    "keywords": "Drawing",
+    "description": "Dance hall scene, reprinted from Leslie's Magazine",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00059cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00059cc",
+    "lunr_id": 0
+  },
+  {
     "pid": "00034cc",
     "label": "Outside Lake County",
     "location": "Buena Vista (Colo.), Chaffee County",
@@ -16,7 +32,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00034cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00034cc",
-    "lunr_id": 0
+    "lunr_id": 1
   },
   {
     "pid": "00021cc",
@@ -32,7 +48,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00021cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00021cc",
-    "lunr_id": 1
+    "lunr_id": 2
   },
   {
     "pid": "00008cc",
@@ -48,7 +64,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00008cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00008cc",
-    "lunr_id": 2
+    "lunr_id": 3
   },
   {
     "pid": "00047cc",
@@ -64,7 +80,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00047cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00047cc",
-    "lunr_id": 3
+    "lunr_id": 4
   },
   {
     "pid": "00002cc",
@@ -80,14 +96,14 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00002cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00002cc",
-    "lunr_id": 4
+    "lunr_id": 5
   },
   {
     "pid": "00050cc",
     "label": "Leadville",
     "location": "Leadville (Colo.), Harrison Avenue",
     "keywords": "Buildings, Businesses",
-    "description": "Harrison Avenue, looking south, c. 1915. ",
+    "description": "Harrison Avenue, looking south, c. 1915. Taken from northwest corner of West 8th Street.",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
     "creation_date": "1915",
@@ -96,7 +112,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00050cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00050cc",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "00020cc",
@@ -112,7 +128,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00020cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00020cc",
-    "lunr_id": 6
+    "lunr_id": 7
   },
   {
     "pid": "00037cc",
@@ -128,7 +144,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00037cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00037cc",
-    "lunr_id": 7
+    "lunr_id": 8
   },
   {
     "pid": "00018cc",
@@ -144,7 +160,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00018cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00018cc",
-    "lunr_id": 8
+    "lunr_id": 9
   },
   {
     "pid": "00022cc",
@@ -160,7 +176,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00022cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00022cc",
-    "lunr_id": 9
+    "lunr_id": 10
   },
   {
     "pid": "00016cc",
@@ -176,7 +192,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00016cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00016cc",
-    "lunr_id": 10
+    "lunr_id": 11
   },
   {
     "pid": "00038cc",
@@ -192,7 +208,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00038cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00038cc",
-    "lunr_id": 11
+    "lunr_id": 12
   },
   {
     "pid": "00023cc",
@@ -208,7 +224,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00023cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00023cc",
-    "lunr_id": 12
+    "lunr_id": 13
   },
   {
     "pid": "00005cc",
@@ -224,7 +240,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00005cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00005cc",
-    "lunr_id": 13
+    "lunr_id": 14
   },
   {
     "pid": "00026cc",
@@ -240,7 +256,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00026cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00026cc",
-    "lunr_id": 14
+    "lunr_id": 15
   },
   {
     "pid": "00014cc",
@@ -256,7 +272,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00014cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00014cc",
-    "lunr_id": 15
+    "lunr_id": 16
   },
   {
     "pid": "00030cc",
@@ -272,7 +288,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00030cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00030cc",
-    "lunr_id": 16
+    "lunr_id": 17
   },
   {
     "pid": "00041cc",
@@ -288,7 +304,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00041cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00041cc",
-    "lunr_id": 17
+    "lunr_id": 18
   },
   {
     "pid": "00013cc",
@@ -304,7 +320,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00013cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00013cc",
-    "lunr_id": 18
+    "lunr_id": 19
   },
   {
     "pid": "00025cc",
@@ -320,7 +336,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00025cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00025cc",
-    "lunr_id": 19
+    "lunr_id": 20
   },
   {
     "pid": "00012cc",
@@ -336,7 +352,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00012cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00012cc",
-    "lunr_id": 20
+    "lunr_id": 21
   },
   {
     "pid": "00009cc",
@@ -352,7 +368,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00009cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00009cc",
-    "lunr_id": 21
+    "lunr_id": 22
   },
   {
     "pid": "00024cc",
@@ -368,7 +384,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00024cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00024cc",
-    "lunr_id": 22
+    "lunr_id": 23
   },
   {
     "pid": "00039cc",
@@ -384,7 +400,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00039cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00039cc",
-    "lunr_id": 23
+    "lunr_id": 24
   },
   {
     "pid": "00031cc",
@@ -400,7 +416,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00031cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00031cc",
-    "lunr_id": 24
+    "lunr_id": 25
   },
   {
     "pid": "00033cc",
@@ -416,7 +432,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00033cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00033cc",
-    "lunr_id": 25
+    "lunr_id": 26
   },
   {
     "pid": "00044cc",
@@ -432,7 +448,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00044cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00044cc",
-    "lunr_id": 26
+    "lunr_id": 27
   },
   {
     "pid": "00003cc",
@@ -448,7 +464,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00003cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00003cc",
-    "lunr_id": 27
+    "lunr_id": 28
   },
   {
     "pid": "00040cc",
@@ -464,7 +480,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00040cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00040cc",
-    "lunr_id": 28
+    "lunr_id": 29
   },
   {
     "pid": "00042cc",
@@ -474,13 +490,13 @@ layout: none
     "description": "Miners posing outside the Colonel Sellers Mine in California Gulch 5/23/1889 Brisbois ",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
-    "creation_date": "5/23/1889",
+    "creation_date": "1889-05-23",
     "format": "Photo",
     "source": "Scanned Negative",
     "thumbnail": "/img/derivatives/iiif/images/00042cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00042cc",
-    "lunr_id": 29
+    "lunr_id": 30
   },
   {
     "pid": "00019cc",
@@ -496,7 +512,55 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00019cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00019cc",
-    "lunr_id": 30
+    "lunr_id": 31
+  },
+  {
+    "pid": "00058cc",
+    "label": "Buildings & Businesses",
+    "location": null,
+    "keywords": "Drawing, Buildings, Businesses",
+    "description": "Texas House newspaper print. Samuel D. Harlan and John H. F. Chapman proprietors in 1881. ",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": "1881",
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00058cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00058cc",
+    "lunr_id": 32
+  },
+  {
+    "pid": "00060cc",
+    "label": "Leadville",
+    "location": "Leadville (Colo.), Chestnut Street",
+    "keywords": "Buildings, Businesses",
+    "description": "100 block of West Chestnut, looking east, 1880 or 1881, Carbonate Hill background. Notable businesses include the Grant Hotel and Coliseum Theatre. ",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": "1880 or 1881",
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00060cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00060cc",
+    "lunr_id": 33
+  },
+  {
+    "pid": "00056cc",
+    "label": "Leadville",
+    "location": "Leadville (Colo.)",
+    "keywords": "Buildings, Businesses",
+    "description": "Interior view of (possibly) Hyman's Saloon",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00056cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00056cc",
+    "lunr_id": 34
   },
   {
     "pid": "00017cc",
@@ -512,7 +576,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00017cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00017cc",
-    "lunr_id": 31
+    "lunr_id": 35
   },
   {
     "pid": "00029cc",
@@ -528,7 +592,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00029cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00029cc",
-    "lunr_id": 32
+    "lunr_id": 36
   },
   {
     "pid": "00007cc",
@@ -544,7 +608,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00007cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00007cc",
-    "lunr_id": 33
+    "lunr_id": 37
   },
   {
     "pid": "00004cc",
@@ -560,7 +624,71 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00004cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00004cc",
-    "lunr_id": 34
+    "lunr_id": 38
+  },
+  {
+    "pid": "00054cc",
+    "label": "Mining",
+    "location": "California Gulch",
+    "keywords": "Mining",
+    "description": "Mahala Shaft - Wolftone in background - looking west ",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00054cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00054cc",
+    "lunr_id": 39
+  },
+  {
+    "pid": "00052cc",
+    "label": "Leadville",
+    "location": "Leadville (Colo.)",
+    "keywords": "Buildings, Houses",
+    "description": "Leadville - from East 3rd Street",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00052cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00052cc",
+    "lunr_id": 40
+  },
+  {
+    "pid": "00053cc",
+    "label": "Leadville",
+    "location": "Leadville (Colo.)",
+    "keywords": "Buildings, Houses",
+    "description": "Leadville - East 4th Street",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00053cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00053cc",
+    "lunr_id": 41
+  },
+  {
+    "pid": "00055cc",
+    "label": "Leadville",
+    "location": "Leadville (Colo.), Harrison Avenue, California Gulch",
+    "keywords": "Mining, Buildings",
+    "description": "South end of Harrison Avenue, perhaps Arkansas Valley Sampling Co.",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00055cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00055cc",
+    "lunr_id": 42
   },
   {
     "pid": "00049cc",
@@ -576,7 +704,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00049cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00049cc",
-    "lunr_id": 35
+    "lunr_id": 43
   },
   {
     "pid": "00006cc",
@@ -592,7 +720,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00006cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00006cc",
-    "lunr_id": 36
+    "lunr_id": 44
   },
   {
     "pid": "00027cc",
@@ -608,7 +736,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00027cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00027cc",
-    "lunr_id": 37
+    "lunr_id": 45
   },
   {
     "pid": "00035cc",
@@ -624,7 +752,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00035cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00035cc",
-    "lunr_id": 38
+    "lunr_id": 46
   },
   {
     "pid": "00048cc",
@@ -640,7 +768,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00048cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00048cc",
-    "lunr_id": 39
+    "lunr_id": 47
   },
   {
     "pid": "00001cc",
@@ -656,7 +784,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00001cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00001cc",
-    "lunr_id": 40
+    "lunr_id": 48
   },
   {
     "pid": "00028cc",
@@ -672,7 +800,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00028cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00028cc",
-    "lunr_id": 41
+    "lunr_id": 49
   },
   {
     "pid": "00036cc",
@@ -688,7 +816,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00036cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00036cc",
-    "lunr_id": 42
+    "lunr_id": 50
   },
   {
     "pid": "00011cc",
@@ -704,7 +832,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00011cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00011cc",
-    "lunr_id": 43
+    "lunr_id": 51
   },
   {
     "pid": "00015cc",
@@ -720,7 +848,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00015cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00015cc",
-    "lunr_id": 44
+    "lunr_id": 52
   },
   {
     "pid": "00032cc",
@@ -736,7 +864,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00032cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00032cc",
-    "lunr_id": 45
+    "lunr_id": 53
   },
   {
     "pid": "00010cc",
@@ -752,7 +880,39 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00010cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00010cc",
-    "lunr_id": 46
+    "lunr_id": 54
+  },
+  {
+    "pid": "00057cc",
+    "label": "Leadville",
+    "location": "Leadville (Colo.)",
+    "keywords": "Buildings, Houses",
+    "description": "Corner of Spruce & 6th Street, Carbonate Hill in background",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00057cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00057cc",
+    "lunr_id": 55
+  },
+  {
+    "pid": "00051cc",
+    "label": "Leadville",
+    "location": "Leadville (Colo.), Harrison Avenue",
+    "keywords": "Buildings, Businesses, Federal Building",
+    "description": "Harrison Avenue, looking south, c. 1915. Taken from West 9th Street.",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": "1915",
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00051cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00051cc",
+    "lunr_id": 56
   },
   {
     "pid": "00043cc",
@@ -768,7 +928,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00043cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00043cc",
-    "lunr_id": 47
+    "lunr_id": 57
   },
   {
     "pid": "00046cc",
@@ -778,12 +938,12 @@ layout: none
     "description": "Turnverein, 1/18/1926 German-American gymnastic club also known as Turners",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
-    "creation_date": "1/18/1926",
+    "creation_date": "1926-01-18",
     "format": "Photo",
     "source": "Scanned Negative",
     "thumbnail": "/img/derivatives/iiif/images/00046cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00046cc",
-    "lunr_id": 48
+    "lunr_id": 58
   }
 ]
