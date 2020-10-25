@@ -33,13 +33,13 @@ lcpl header section
 
   .navbar-brand {
     font-weight: 700;
-    color: $accent-light;
+    color: $accent-dark;
     font-size: 2rem;
     white-space: normal;
   }
 
   .navbar-brand:hover {
-    color: $accent-dark;
+    color: $accent-light;
   }
 
   #wax-header {
@@ -131,6 +131,61 @@ lcpl header section
           height: 200px;
         }
       }
+    }
+  }
+}
+
+/*
+
+main body & containers
+
+*/
+
+a {
+  color: $accent-dark;
+}
+
+a:hover {
+  color: $accent-light;
+}
+
+
+/*
+
+content section
+
+*/
+
+.wax-parallax {
+
+  .parallax-caption {
+    a {
+      color: $accent-dark;
+    }
+
+    a:hover {
+      color: $accent-light;
+    }
+  }
+}
+
+/*
+
+search box
+
+*/
+
+
+.search-block{
+  #results {
+    .result {
+      a {
+        p {
+          .title{
+            color: $accent-dark;
+          }
+        }
+      }  
     }
   }
 }
