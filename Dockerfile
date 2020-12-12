@@ -44,6 +44,3 @@ RUN /bin/bash -l -c ". ~/.profile && bundle install"
 
 # Pass through commands from start terminal
 ENTRYPOINT ["/bin/bash", "-l", "-c"]
-
-# Make port available
-EXPOSE 4000
