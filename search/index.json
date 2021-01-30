@@ -483,6 +483,22 @@ layout: none
     "lunr_id": 29
   },
   {
+    "pid": "00077cc",
+    "label": "People",
+    "location": null,
+    "keywords": "Children, Men, Women",
+    "description": "Amateur theatricals",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00077cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00077cc",
+    "lunr_id": 30
+  },
+  {
     "pid": "00039cc",
     "label": "Leadville",
     "location": "Leadville (Colo.), Fair View Hill",
@@ -496,7 +512,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00039cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00039cc",
-    "lunr_id": 30
+    "lunr_id": 31
   },
   {
     "pid": "00070cc",
@@ -512,7 +528,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00070cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00070cc",
-    "lunr_id": 31
+    "lunr_id": 32
   },
   {
     "pid": "00031cc",
@@ -528,7 +544,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00031cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00031cc",
-    "lunr_id": 32
+    "lunr_id": 33
   },
   {
     "pid": "00069cc",
@@ -544,7 +560,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00069cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00069cc",
-    "lunr_id": 33
+    "lunr_id": 34
   },
   {
     "pid": "00033cc",
@@ -560,7 +576,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00033cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00033cc",
-    "lunr_id": 34
+    "lunr_id": 35
   },
   {
     "pid": "00044cc",
@@ -576,7 +592,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00044cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00044cc",
-    "lunr_id": 35
+    "lunr_id": 36
   },
   {
     "pid": "00071cc",
@@ -592,7 +608,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00071cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00071cc",
-    "lunr_id": 36
+    "lunr_id": 37
   },
   {
     "pid": "00067cc",
@@ -608,7 +624,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00067cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00067cc",
-    "lunr_id": 37
+    "lunr_id": 38
   },
   {
     "pid": "00003cc",
@@ -624,7 +640,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00003cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00003cc",
-    "lunr_id": 38
+    "lunr_id": 39
   },
   {
     "pid": "00040cc",
@@ -640,7 +656,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00040cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00040cc",
-    "lunr_id": 39
+    "lunr_id": 40
   },
   {
     "pid": "00042cc",
@@ -656,7 +672,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00042cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00042cc",
-    "lunr_id": 40
+    "lunr_id": 41
   },
   {
     "pid": "00076cc",
@@ -672,7 +688,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00076cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00076cc",
-    "lunr_id": 41
+    "lunr_id": 42
   },
   {
     "pid": "00019cc",
@@ -688,7 +704,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00019cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00019cc",
-    "lunr_id": 42
+    "lunr_id": 43
   },
   {
     "pid": "00058cc",
@@ -704,7 +720,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00058cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00058cc",
-    "lunr_id": 43
+    "lunr_id": 44
   },
   {
     "pid": "00060cc",
@@ -720,7 +736,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00060cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00060cc",
-    "lunr_id": 44
+    "lunr_id": 45
   },
   {
     "pid": "00056cc",
@@ -736,7 +752,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00056cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00056cc",
-    "lunr_id": 45
+    "lunr_id": 46
   },
   {
     "pid": "00017cc",
@@ -752,7 +768,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00017cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00017cc",
-    "lunr_id": 46
+    "lunr_id": 47
   },
   {
     "pid": "00029cc",
@@ -768,7 +784,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00029cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00029cc",
-    "lunr_id": 47
+    "lunr_id": 48
   },
   {
     "pid": "00007cc",
@@ -784,7 +800,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00007cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00007cc",
-    "lunr_id": 48
+    "lunr_id": 49
   },
   {
     "pid": "00004cc",
@@ -800,7 +816,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00004cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00004cc",
-    "lunr_id": 49
+    "lunr_id": 50
   },
   {
     "pid": "00073cc",
@@ -816,7 +832,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00073cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00073cc",
-    "lunr_id": 50
+    "lunr_id": 51
   },
   {
     "pid": "00072cc",
@@ -832,7 +848,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00072cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00072cc",
-    "lunr_id": 51
+    "lunr_id": 52
   },
   {
     "pid": "00054cc",
@@ -848,7 +864,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00054cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00054cc",
-    "lunr_id": 52
+    "lunr_id": 53
   },
   {
     "pid": "00052cc",
@@ -864,7 +880,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00052cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00052cc",
-    "lunr_id": 53
+    "lunr_id": 54
   },
   {
     "pid": "00053cc",
@@ -880,7 +896,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00053cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00053cc",
-    "lunr_id": 54
+    "lunr_id": 55
   },
   {
     "pid": "00055cc",
@@ -896,7 +912,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00055cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00055cc",
-    "lunr_id": 55
+    "lunr_id": 56
   },
   {
     "pid": "00049cc",
@@ -912,7 +928,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00049cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00049cc",
-    "lunr_id": 56
+    "lunr_id": 57
   },
   {
     "pid": "00075cc",
@@ -928,7 +944,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00075cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00075cc",
-    "lunr_id": 57
+    "lunr_id": 58
   },
   {
     "pid": "00006cc",
@@ -944,7 +960,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00006cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00006cc",
-    "lunr_id": 58
+    "lunr_id": 59
   },
   {
     "pid": "00027cc",
@@ -960,7 +976,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00027cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00027cc",
-    "lunr_id": 59
+    "lunr_id": 60
   },
   {
     "pid": "00035cc",
@@ -976,7 +992,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00035cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00035cc",
-    "lunr_id": 60
+    "lunr_id": 61
   },
   {
     "pid": "00061cc",
@@ -992,7 +1008,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00061cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00061cc",
-    "lunr_id": 61
+    "lunr_id": 62
   },
   {
     "pid": "00048cc",
@@ -1008,7 +1024,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00048cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00048cc",
-    "lunr_id": 62
+    "lunr_id": 63
   },
   {
     "pid": "00001cc",
@@ -1024,7 +1040,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00001cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00001cc",
-    "lunr_id": 63
+    "lunr_id": 64
   },
   {
     "pid": "00028cc",
@@ -1040,7 +1056,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00028cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00028cc",
-    "lunr_id": 64
+    "lunr_id": 65
   },
   {
     "pid": "00036cc",
@@ -1056,7 +1072,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00036cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00036cc",
-    "lunr_id": 65
+    "lunr_id": 66
   },
   {
     "pid": "00011cc",
@@ -1072,7 +1088,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00011cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00011cc",
-    "lunr_id": 66
+    "lunr_id": 67
   },
   {
     "pid": "00015cc",
@@ -1088,7 +1104,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00015cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00015cc",
-    "lunr_id": 67
+    "lunr_id": 68
   },
   {
     "pid": "00032cc",
@@ -1104,7 +1120,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00032cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00032cc",
-    "lunr_id": 68
+    "lunr_id": 69
   },
   {
     "pid": "00010cc",
@@ -1120,7 +1136,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00010cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00010cc",
-    "lunr_id": 69
+    "lunr_id": 70
   },
   {
     "pid": "00057cc",
@@ -1136,7 +1152,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00057cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00057cc",
-    "lunr_id": 70
+    "lunr_id": 71
   },
   {
     "pid": "00051cc",
@@ -1152,7 +1168,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00051cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00051cc",
-    "lunr_id": 71
+    "lunr_id": 72
   },
   {
     "pid": "00043cc",
@@ -1168,7 +1184,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00043cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00043cc",
-    "lunr_id": 72
+    "lunr_id": 73
   },
   {
     "pid": "00063cc",
@@ -1184,7 +1200,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00063cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00063cc",
-    "lunr_id": 73
+    "lunr_id": 74
   },
   {
     "pid": "00046cc",
@@ -1200,6 +1216,6 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00046cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00046cc",
-    "lunr_id": 74
+    "lunr_id": 75
   }
 ]
