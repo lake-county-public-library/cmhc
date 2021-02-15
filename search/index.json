@@ -1123,6 +1123,22 @@ layout: none
     "lunr_id": 69
   },
   {
+    "pid": "00085cc",
+    "label": "People",
+    "location": "Massive, Mount (Colo.)",
+    "keywords": "Mt. Massive",
+    "description": "Summit of Mt. Massive, Yothers in photo, Brisbois Photo",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00085cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00085cc",
+    "lunr_id": 70
+  },
+  {
     "pid": "00063cc",
     "label": "People",
     "location": null,
@@ -1136,7 +1152,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00063cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00063cc",
-    "lunr_id": 70
+    "lunr_id": 71
   },
   {
     "pid": "00029cc",
@@ -1152,7 +1168,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00029cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00029cc",
-    "lunr_id": 71
+    "lunr_id": 72
   },
   {
     "pid": "00080cc",
@@ -1168,7 +1184,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00080cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00080cc",
-    "lunr_id": 72
+    "lunr_id": 73
   },
   {
     "pid": "00004cc",
@@ -1184,7 +1200,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00004cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00004cc",
-    "lunr_id": 73
+    "lunr_id": 74
   },
   {
     "pid": "00081cc",
@@ -1200,7 +1216,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00081cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00081cc",
-    "lunr_id": 74
+    "lunr_id": 75
   },
   {
     "pid": "00055cc",
@@ -1216,7 +1232,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00055cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00055cc",
-    "lunr_id": 75
+    "lunr_id": 76
   },
   {
     "pid": "00006cc",
@@ -1232,7 +1248,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00006cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00006cc",
-    "lunr_id": 76
+    "lunr_id": 77
   },
   {
     "pid": "00049cc",
@@ -1248,7 +1264,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00049cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00049cc",
-    "lunr_id": 77
+    "lunr_id": 78
   },
   {
     "pid": "00056cc",
@@ -1264,7 +1280,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00056cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00056cc",
-    "lunr_id": 78
+    "lunr_id": 79
   },
   {
     "pid": "00036cc",
@@ -1280,7 +1296,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00036cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00036cc",
-    "lunr_id": 79
+    "lunr_id": 80
   },
   {
     "pid": "00021cc",
@@ -1296,7 +1312,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00021cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00021cc",
-    "lunr_id": 80
+    "lunr_id": 81
   },
   {
     "pid": "00065cc",
@@ -1312,7 +1328,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00065cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00065cc",
-    "lunr_id": 81
+    "lunr_id": 82
   },
   {
     "pid": "00040cc",
@@ -1328,6 +1344,6 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00040cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00040cc",
-    "lunr_id": 82
+    "lunr_id": 83
   }
 ]
