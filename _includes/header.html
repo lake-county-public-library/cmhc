@@ -1,15 +1,11 @@
 <div id='lcpl-header-main'>
 <div id='lcpl-header' class='lcpl-inline-container'>
 
+{% unless layout.show_logo == false %}
   <div>
-    <a href="https://www.lakecountypubliclibrary.org/"><img class='img-responsive' src="{{ 'img/Logo-horizontal2x.png' | absolute_url }}" alt='Lake County Public Library'/></a>
+    <a href="{{ '/' | absolute_url }}"><img class='img-responsive' src="{{ 'img/Logo-horizontal2x.png' | absolute_url }}" alt='Colorado Mountain History Collection'/></a>
   </div>
-
-  <div>
-    <a class='navbar-brand' href="{{ '/' | absolute_url }}" title='Home'>
-      {{ site.title | newline_to_br }}
-    </a>
-  </div>
+{% endunless %}
 
 <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
   <div class='wax-inline-container'>

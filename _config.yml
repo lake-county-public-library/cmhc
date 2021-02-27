@@ -104,12 +104,8 @@ search:
 # submenu via `sub`.
 
 menu:  
-  - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
+  - label: 'Home'
+    link: '/'
   - label: 'Browse Collections'
     sub:
       - label: 'Buildings & Businesses'
@@ -139,9 +135,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/awoods'
+      link: 'https://github.com/lake-county-public-library'
     - label: 'Contact'
       link: '/contact'
+    - label: 'Lake County Public Library'
+      link: 'https://www.lakecountypubliclibrary.org/'
   logos:
     - img: '/img/logo.png'
 
