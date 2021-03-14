@@ -8,6 +8,10 @@ banner:
   height: '500px'
 ---
 
+<div class='highlight-box'>
+Welcome to the new Colorado Mountain History Digital Collection! We are working to migrate our collection to our new platform, and this process will take some time. Thank you for your patience as we work to add items to our new site. Keep checking back to follow our progress. If you need help with a photo request or would like to purchase images, please email <a href="mailto:holly@lakecountypubliclibrary.org">holly@lakecountypubliclibrary.org</a> or call <a href="tel:719-486-0569">719-486-0569</a>.
+</div>
+
 ### Browse the Collection
 
 {% include collection_galleries.html
