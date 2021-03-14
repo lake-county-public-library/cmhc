@@ -126,6 +126,12 @@ menu:
         link: '/twin/'
   - label: 'Search'
     link: '/search/'
+  - label: 'About'
+    sub:
+      - label: 'Contact'
+        link: '/contact/'
+      - label: 'Feedback'
+        link: '/feedback/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
