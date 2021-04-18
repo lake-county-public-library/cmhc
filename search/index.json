@@ -6525,7 +6525,7 @@ layout: none
     "creation_date": null,
     "format": "Photo",
     "source": "Scanned Negative",
-    "thumbnail": null,
+    "thumbnail": "/img/derivatives/iiif/images/00878cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00878cc",
     "lunr_id": 407
@@ -8157,7 +8157,7 @@ layout: none
     "creation_date": null,
     "format": "Photo",
     "source": "Scanned Negative",
-    "thumbnail": null,
+    "thumbnail": "/img/derivatives/iiif/images/00786cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00786cc",
     "lunr_id": 509
