@@ -17,7 +17,7 @@ Welcome to the new Colorado Mountain History Digital Collection! We are working 
 {% include collection_galleries.html
 	collection='cmhc'
 	facet='label'
-	facet_values='Twin Lakes,Buildings & Businesses,Climax,Leadville,Mining,Outside Lake County,People,Railroad Images' %}
+	facet_values='Twin Lakes,Buildings & Businesses,Climax,Leadville,Mining,Outside Lake County,People,Railroad Images,Uncategorized' %}
 
 <a href='{{ "full" | absolute_url }}'>Full Collection</a>
 
