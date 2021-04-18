@@ -83,6 +83,22 @@ layout: none
     "lunr_id": 4
   },
   {
+    "pid": "00106cc",
+    "label": "People",
+    "location": null,
+    "keywords": "Women",
+    "description": "Two unidentified ladies among trees, 6/24/1900",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00106cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00106cc",
+    "lunr_id": 5
+  },
+  {
     "pid": "00053cc",
     "label": "Leadville",
     "location": "Leadville (Colo.)",
@@ -96,7 +112,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00053cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00053cc",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "00098cc",
@@ -112,7 +128,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00098cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00098cc",
-    "lunr_id": 6
+    "lunr_id": 7
   },
   {
     "pid": "00080cc",
@@ -128,7 +144,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00080cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00080cc",
-    "lunr_id": 7
+    "lunr_id": 8
   },
   {
     "pid": "00086cc",
@@ -144,7 +160,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00086cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00086cc",
-    "lunr_id": 8
+    "lunr_id": 9
   },
   {
     "pid": "00017cc",
@@ -160,7 +176,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00017cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00017cc",
-    "lunr_id": 9
+    "lunr_id": 10
   },
   {
     "pid": "00032cc",
@@ -176,7 +192,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00032cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00032cc",
-    "lunr_id": 10
+    "lunr_id": 11
+  },
+  {
+    "pid": "00107cc",
+    "label": "People",
+    "location": "Twin Lakes (Lake County, Colo.)",
+    "keywords": "Men",
+    "description": "Mr. Davies and son in a model T at Twin Lakes, Colorado",
+    "named_persons": "Mr. Davies",
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00107cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00107cc",
+    "lunr_id": 12
   },
   {
     "pid": "00100cc",
@@ -192,7 +224,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00100cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00100cc",
-    "lunr_id": 11
+    "lunr_id": 13
   },
   {
     "pid": "00013cc",
@@ -208,7 +240,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00013cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00013cc",
-    "lunr_id": 12
+    "lunr_id": 14
   },
   {
     "pid": "00025cc",
@@ -224,7 +256,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00025cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00025cc",
-    "lunr_id": 13
+    "lunr_id": 15
   },
   {
     "pid": "00093cc",
@@ -240,7 +272,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00093cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00093cc",
-    "lunr_id": 14
+    "lunr_id": 16
   },
   {
     "pid": "00040cc",
@@ -256,7 +288,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00040cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00040cc",
-    "lunr_id": 15
+    "lunr_id": 17
   },
   {
     "pid": "00001cc",
@@ -272,7 +304,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00001cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00001cc",
-    "lunr_id": 16
+    "lunr_id": 18
   },
   {
     "pid": "00026cc",
@@ -288,7 +320,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00026cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00026cc",
-    "lunr_id": 17
+    "lunr_id": 19
   },
   {
     "pid": "00010cc",
@@ -304,7 +336,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00010cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00010cc",
-    "lunr_id": 18
+    "lunr_id": 20
   },
   {
     "pid": "00060cc",
@@ -320,7 +352,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00060cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00060cc",
-    "lunr_id": 19
+    "lunr_id": 21
+  },
+  {
+    "pid": "00104cc",
+    "label": "People",
+    "location": null,
+    "keywords": "Women",
+    "description": "Blanche McFerran Trimble",
+    "named_persons": "Blanche McFerran Trimble",
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00104cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00104cc",
+    "lunr_id": 22
   },
   {
     "pid": "00039cc",
@@ -336,7 +384,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00039cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00039cc",
-    "lunr_id": 20
+    "lunr_id": 23
   },
   {
     "pid": "00015cc",
@@ -352,7 +400,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00015cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00015cc",
-    "lunr_id": 21
+    "lunr_id": 24
+  },
+  {
+    "pid": "00103cc",
+    "label": "People",
+    "location": null,
+    "keywords": "Men",
+    "description": "Mr. Nash of Davis Drug store",
+    "named_persons": "Mr. Nash",
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00103cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00103cc",
+    "lunr_id": 25
   },
   {
     "pid": "00021cc",
@@ -368,7 +432,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00021cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00021cc",
-    "lunr_id": 22
+    "lunr_id": 26
   },
   {
     "pid": "00066cc",
@@ -384,7 +448,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00066cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00066cc",
-    "lunr_id": 23
+    "lunr_id": 27
   },
   {
     "pid": "00038cc",
@@ -400,7 +464,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00038cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00038cc",
-    "lunr_id": 24
+    "lunr_id": 28
   },
   {
     "pid": "00027cc",
@@ -416,7 +480,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00027cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00027cc",
-    "lunr_id": 25
+    "lunr_id": 29
   },
   {
     "pid": "00048cc",
@@ -432,7 +496,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00048cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00048cc",
-    "lunr_id": 26
+    "lunr_id": 30
   },
   {
     "pid": "00030cc",
@@ -448,7 +512,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00030cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00030cc",
-    "lunr_id": 27
+    "lunr_id": 31
   },
   {
     "pid": "00034cc",
@@ -464,7 +528,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00034cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00034cc",
-    "lunr_id": 28
+    "lunr_id": 32
   },
   {
     "pid": "00012cc",
@@ -480,7 +544,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00012cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00012cc",
-    "lunr_id": 29
+    "lunr_id": 33
   },
   {
     "pid": "00099cc",
@@ -496,7 +560,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00099cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00099cc",
-    "lunr_id": 30
+    "lunr_id": 34
   },
   {
     "pid": "00002cc",
@@ -512,7 +576,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00002cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00002cc",
-    "lunr_id": 31
+    "lunr_id": 35
   },
   {
     "pid": "00052cc",
@@ -528,7 +592,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00052cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00052cc",
-    "lunr_id": 32
+    "lunr_id": 36
   },
   {
     "pid": "00055cc",
@@ -544,7 +608,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00055cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00055cc",
-    "lunr_id": 33
+    "lunr_id": 37
   },
   {
     "pid": "00018cc",
@@ -560,7 +624,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00018cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00018cc",
-    "lunr_id": 34
+    "lunr_id": 38
   },
   {
     "pid": "00076cc",
@@ -576,7 +640,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00076cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00076cc",
-    "lunr_id": 35
+    "lunr_id": 39
   },
   {
     "pid": "00043cc",
@@ -592,7 +656,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00043cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00043cc",
-    "lunr_id": 36
+    "lunr_id": 40
   },
   {
     "pid": "00014cc",
@@ -608,7 +672,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00014cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00014cc",
-    "lunr_id": 37
+    "lunr_id": 41
   },
   {
     "pid": "00028cc",
@@ -624,7 +688,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00028cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00028cc",
-    "lunr_id": 38
+    "lunr_id": 42
+  },
+  {
+    "pid": "00108cc",
+    "label": "People",
+    "location": null,
+    "keywords": "Men",
+    "description": "Silver Camp No. 12, Woodmen of the World - Uniform Rank Drill Team, July 4, 1905. Back row: Richard Bennett, John Otto Johnson, W.H. Houghey, E. A. Davis, F. J. Howard, Edgar J. Schlageter(?). Middle row: Lee F. Olinger, Quartermaster D.B. Olinger, Captain William Youe, W.J. Ahern, W. D. O'Leary. Front row: Guy H. Edmonson, Wilbur Simmons, Sergeant Frank W. Hight, W. F. Thielke, P. A. Ahern.",
+    "named_persons": "Richard Bennett, John Otto Johnson, W.H. Houghey, E. A. Davis, F. J. Howard, Edgar J. Schlageter(?), Lee F. Olinger, Quartermaster D.B. Olinger, Captain William Youe, W.J. Ahern, W. D. O'Leary, Guy H. Edmonson, Wilbur Simmons, Sergeant Frank W. Hight, W. F. Thielke, P. A. Ahern",
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00108cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00108cc",
+    "lunr_id": 43
   },
   {
     "pid": "00029cc",
@@ -640,7 +720,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00029cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00029cc",
-    "lunr_id": 39
+    "lunr_id": 44
+  },
+  {
+    "pid": "00109cc",
+    "label": "People",
+    "location": "Glenwood Springs (Colo.)",
+    "keywords": "Men",
+    "description": "Fraternal Order of Eagles prize-winning Drum Corps, in Glenwood Springs, Colorado",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00109cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00109cc",
+    "lunr_id": 45
   },
   {
     "pid": "00004cc",
@@ -656,7 +752,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00004cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00004cc",
-    "lunr_id": 40
+    "lunr_id": 46
   },
   {
     "pid": "00031cc",
@@ -672,7 +768,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00031cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00031cc",
-    "lunr_id": 41
+    "lunr_id": 47
   },
   {
     "pid": "00036cc",
@@ -688,7 +784,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00036cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00036cc",
-    "lunr_id": 42
+    "lunr_id": 48
   },
   {
     "pid": "00023cc",
@@ -704,7 +800,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00023cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00023cc",
-    "lunr_id": 43
+    "lunr_id": 49
   },
   {
     "pid": "00078cc",
@@ -720,7 +816,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00078cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00078cc",
-    "lunr_id": 44
+    "lunr_id": 50
   },
   {
     "pid": "00058cc",
@@ -736,7 +832,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00058cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00058cc",
-    "lunr_id": 45
+    "lunr_id": 51
   },
   {
     "pid": "00063cc",
@@ -752,7 +848,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00063cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00063cc",
-    "lunr_id": 46
+    "lunr_id": 52
   },
   {
     "pid": "00071cc",
@@ -768,7 +864,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00071cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00071cc",
-    "lunr_id": 47
+    "lunr_id": 53
   },
   {
     "pid": "00069cc",
@@ -784,7 +880,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00069cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00069cc",
-    "lunr_id": 48
+    "lunr_id": 54
   },
   {
     "pid": "00090cc",
@@ -800,7 +896,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00090cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00090cc",
-    "lunr_id": 49
+    "lunr_id": 55
+  },
+  {
+    "pid": "00110cc",
+    "label": "Mining",
+    "location": "Lake County (Colo.)",
+    "keywords": "Mining",
+    "description": "Continental Chief mine in Iowa Gulch ",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00110cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00110cc",
+    "lunr_id": 56
   },
   {
     "pid": "00087cc",
@@ -816,7 +928,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00087cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00087cc",
-    "lunr_id": 50
+    "lunr_id": 57
   },
   {
     "pid": "00049cc",
@@ -832,7 +944,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00049cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00049cc",
-    "lunr_id": 51
+    "lunr_id": 58
   },
   {
     "pid": "00081cc",
@@ -848,7 +960,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00081cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00081cc",
-    "lunr_id": 52
+    "lunr_id": 59
+  },
+  {
+    "pid": "00101cc",
+    "label": "Buildings & Businesses",
+    "location": null,
+    "keywords": "Buildings, Businesses",
+    "description": "Clarendon Hotel, William H. Jackson photo (stereoscope)",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00101cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00101cc",
+    "lunr_id": 60
   },
   {
     "pid": "00033cc",
@@ -864,7 +992,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00033cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00033cc",
-    "lunr_id": 53
+    "lunr_id": 61
   },
   {
     "pid": "00024cc",
@@ -880,7 +1008,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00024cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00024cc",
-    "lunr_id": 54
+    "lunr_id": 62
   },
   {
     "pid": "00065cc",
@@ -896,7 +1024,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00065cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00065cc",
-    "lunr_id": 55
+    "lunr_id": 63
   },
   {
     "pid": "00054cc",
@@ -912,7 +1040,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00054cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00054cc",
-    "lunr_id": 56
+    "lunr_id": 64
   },
   {
     "pid": "00003cc",
@@ -928,7 +1056,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00003cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00003cc",
-    "lunr_id": 57
+    "lunr_id": 65
   },
   {
     "pid": "00074cc",
@@ -944,7 +1072,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00074cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00074cc",
-    "lunr_id": 58
+    "lunr_id": 66
   },
   {
     "pid": "00008cc",
@@ -960,7 +1088,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00008cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00008cc",
-    "lunr_id": 59
+    "lunr_id": 67
   },
   {
     "pid": "00083cc",
@@ -976,7 +1104,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00083cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00083cc",
-    "lunr_id": 60
+    "lunr_id": 68
   },
   {
     "pid": "00068cc",
@@ -992,7 +1120,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00068cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00068cc",
-    "lunr_id": 61
+    "lunr_id": 69
   },
   {
     "pid": "00050cc",
@@ -1008,7 +1136,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00050cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00050cc",
-    "lunr_id": 62
+    "lunr_id": 70
   },
   {
     "pid": "00096cc",
@@ -1024,7 +1152,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00096cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00096cc",
-    "lunr_id": 63
+    "lunr_id": 71
   },
   {
     "pid": "00046cc",
@@ -1040,7 +1168,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00046cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00046cc",
-    "lunr_id": 64
+    "lunr_id": 72
   },
   {
     "pid": "00059cc",
@@ -1056,7 +1184,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00059cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00059cc",
-    "lunr_id": 65
+    "lunr_id": 73
   },
   {
     "pid": "00085cc",
@@ -1072,7 +1200,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00085cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00085cc",
-    "lunr_id": 66
+    "lunr_id": 74
   },
   {
     "pid": "00077cc",
@@ -1088,7 +1216,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00077cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00077cc",
-    "lunr_id": 67
+    "lunr_id": 75
   },
   {
     "pid": "00062cc",
@@ -1104,7 +1232,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00062cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00062cc",
-    "lunr_id": 68
+    "lunr_id": 76
   },
   {
     "pid": "00079cc",
@@ -1120,7 +1248,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00079cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00079cc",
-    "lunr_id": 69
+    "lunr_id": 77
   },
   {
     "pid": "00064cc",
@@ -1136,7 +1264,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00064cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00064cc",
-    "lunr_id": 70
+    "lunr_id": 78
   },
   {
     "pid": "00073cc",
@@ -1152,7 +1280,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00073cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00073cc",
-    "lunr_id": 71
+    "lunr_id": 79
   },
   {
     "pid": "00041cc",
@@ -1168,7 +1296,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00041cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00041cc",
-    "lunr_id": 72
+    "lunr_id": 80
   },
   {
     "pid": "00047cc",
@@ -1184,7 +1312,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00047cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00047cc",
-    "lunr_id": 73
+    "lunr_id": 81
+  },
+  {
+    "pid": "00102cc",
+    "label": "People",
+    "location": null,
+    "keywords": "Women, Children",
+    "description": "Margaret Boehmer McLister and child (perhaps Henry B.)",
+    "named_persons": "Margaret Boehmer McLister",
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00102cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00102cc",
+    "lunr_id": 82
   },
   {
     "pid": "00057cc",
@@ -1200,7 +1344,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00057cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00057cc",
-    "lunr_id": 74
+    "lunr_id": 83
   },
   {
     "pid": "00092cc",
@@ -1216,7 +1360,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00092cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00092cc",
-    "lunr_id": 75
+    "lunr_id": 84
   },
   {
     "pid": "00035cc",
@@ -1232,7 +1376,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00035cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00035cc",
-    "lunr_id": 76
+    "lunr_id": 85
   },
   {
     "pid": "00011cc",
@@ -1248,7 +1392,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00011cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00011cc",
-    "lunr_id": 77
+    "lunr_id": 86
   },
   {
     "pid": "00020cc",
@@ -1264,7 +1408,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00020cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00020cc",
-    "lunr_id": 78
+    "lunr_id": 87
   },
   {
     "pid": "00089cc",
@@ -1280,7 +1424,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00089cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00089cc",
-    "lunr_id": 79
+    "lunr_id": 88
   },
   {
     "pid": "00022cc",
@@ -1296,7 +1440,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00022cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00022cc",
-    "lunr_id": 80
+    "lunr_id": 89
   },
   {
     "pid": "00075cc",
@@ -1312,7 +1456,23 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00075cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00075cc",
-    "lunr_id": 81
+    "lunr_id": 90
+  },
+  {
+    "pid": "00105cc",
+    "label": "Buildings & Businesses",
+    "location": null,
+    "keywords": "Buildings",
+    "description": "Unidentified house in snow",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Civic Center Association.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Negative",
+    "thumbnail": "/img/derivatives/iiif/images/00105cc/full/250,/0/default.jpg",
+    "collection": "cmhc",
+    "permalink": "/cmhc/00105cc",
+    "lunr_id": 91
   },
   {
     "pid": "00056cc",
@@ -1328,7 +1488,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00056cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00056cc",
-    "lunr_id": 82
+    "lunr_id": 92
   },
   {
     "pid": "00070cc",
@@ -1344,7 +1504,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00070cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00070cc",
-    "lunr_id": 83
+    "lunr_id": 93
   },
   {
     "pid": "00094cc",
@@ -1360,7 +1520,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00094cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00094cc",
-    "lunr_id": 84
+    "lunr_id": 94
   },
   {
     "pid": "00082cc",
@@ -1376,7 +1536,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00082cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00082cc",
-    "lunr_id": 85
+    "lunr_id": 95
   },
   {
     "pid": "00037cc",
@@ -1392,7 +1552,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00037cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00037cc",
-    "lunr_id": 86
+    "lunr_id": 96
   },
   {
     "pid": "00042cc",
@@ -1408,7 +1568,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00042cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00042cc",
-    "lunr_id": 87
+    "lunr_id": 97
   },
   {
     "pid": "00007cc",
@@ -1424,7 +1584,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00007cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00007cc",
-    "lunr_id": 88
+    "lunr_id": 98
   },
   {
     "pid": "00061cc",
@@ -1440,7 +1600,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00061cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00061cc",
-    "lunr_id": 89
+    "lunr_id": 99
   },
   {
     "pid": "00044cc",
@@ -1456,7 +1616,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00044cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00044cc",
-    "lunr_id": 90
+    "lunr_id": 100
   },
   {
     "pid": "00016cc",
@@ -1472,7 +1632,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00016cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00016cc",
-    "lunr_id": 91
+    "lunr_id": 101
   },
   {
     "pid": "00091cc",
@@ -1488,7 +1648,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00091cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00091cc",
-    "lunr_id": 92
+    "lunr_id": 102
   },
   {
     "pid": "00005cc",
@@ -1504,7 +1664,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00005cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00005cc",
-    "lunr_id": 93
+    "lunr_id": 103
   },
   {
     "pid": "00051cc",
@@ -1520,7 +1680,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00051cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00051cc",
-    "lunr_id": 94
+    "lunr_id": 104
   },
   {
     "pid": "00095cc",
@@ -1536,7 +1696,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00095cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00095cc",
-    "lunr_id": 95
+    "lunr_id": 105
   },
   {
     "pid": "00072cc",
@@ -1552,7 +1712,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00072cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00072cc",
-    "lunr_id": 96
+    "lunr_id": 106
   },
   {
     "pid": "00009cc",
@@ -1568,7 +1728,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00009cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00009cc",
-    "lunr_id": 97
+    "lunr_id": 107
   },
   {
     "pid": "00088cc",
@@ -1584,6 +1744,6 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00088cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00088cc",
-    "lunr_id": 98
+    "lunr_id": 108
   }
 ]
