@@ -95,6 +95,7 @@ search:
           - named_persons
           - source
           - rights
+          - pid
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
