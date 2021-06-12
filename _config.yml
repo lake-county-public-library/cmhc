@@ -20,7 +20,7 @@
 
 title:            'Colorado Mountain History Collection'
 description:      'Historic photographs from the CMHC and LCPL collections, Leadville City Directories, Leadville City Jail records, digitized documents, maps, video and audio recordings, and other items that represent the changes of Leadville and Lake County through time'
-url:              'http://history.lakecountypubliclibrary.org'
+url:              'https://history.lakecountypubliclibrary.org'
 baseurl:          '/cmhc'
 copyright:        'Copyright Lake County Public Library, 2020'
 logo:             '/assets/logo.png'
