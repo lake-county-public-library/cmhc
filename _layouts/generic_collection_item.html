@@ -6,7 +6,7 @@ layout: default
   The block below controls the image viewer
 {% endcomment %}
 
-<h3 alt="{{ page.label }}" class='item-label'><a href="{{ page.key | absolute_url }}">{{ page.label }}</a></h3>
+<h3 alt="{{ page.label | escape }}" class='item-label'><a href="{{ page.key | absolute_url }}">{{ page.label }}</a></h3>
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}
