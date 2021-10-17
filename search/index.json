@@ -484,7 +484,7 @@ layout: none
   },
   {
     "pid": "00175cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "Document",
     "description": "Backside of photo #82",
@@ -1044,9 +1044,9 @@ layout: none
   },
   {
     "pid": "00216cc",
-    "label": "Uncategorized",
+    "label": "Mining",
     "location": null,
-    "keywords": null,
+    "keywords": "Coronado Mine, Mining",
     "description": "Coronado mine",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -3796,7 +3796,7 @@ layout: none
   },
   {
     "pid": "00139cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": "Leadville (Colo.)",
     "keywords": "Businesses, Certificate",
     "description": "Schedin & Lehman Certificate of Acceptance, Photographers Association of America, 7/23/1900",
@@ -3956,7 +3956,7 @@ layout: none
   },
   {
     "pid": "00160cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "Men, Document",
     "description": "Lake County Council of Defense, 1917-18. 1. Warren G. West 2. John Harvey 3. George O. Argall 4. Nils T. Schedin 5. Albert F. Moriarty",
@@ -7325,7 +7325,7 @@ layout: none
     "creation_date": null,
     "format": "Photo",
     "source": "Scanned Negative",
-    "thumbnail": "/img/derivatives/iiif/images/00282cc/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/00282pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00282cc",
     "lunr_id": 457
@@ -12244,7 +12244,7 @@ layout: none
   },
   {
     "pid": "00145cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "Document",
     "description": "\"Anogra\" a poem by Nils Schedin, 1915",
@@ -13028,9 +13028,9 @@ layout: none
   },
   {
     "pid": "00217cc",
-    "label": "Uncategorized",
+    "label": "Buildings and Businesses",
     "location": null,
-    "keywords": null,
+    "keywords": "Children, House, Buildings",
     "description": "Two unidentified boys on porch",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -13044,13 +13044,13 @@ layout: none
   },
   {
     "pid": "00208cc",
-    "label": "Uncategorized",
+    "label": "Railroad Images",
     "location": null,
-    "keywords": null,
+    "keywords": "Colorado Midland Railway Company, People",
     "description": "C.M.R.R. bucking snow, 2/26/1899",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
-    "creation_date": null,
+    "creation_date": "2/26/1889",
     "format": "Photo",
     "source": "Scanned Negative",
     "thumbnail": "/img/derivatives/iiif/images/00208cc/full/250,/0/default.jpg",
@@ -15220,7 +15220,7 @@ layout: none
   },
   {
     "pid": "00162cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "Document",
     "description": "Letter from American Jewish Relief Committee to Nils Schedin, 1919",
@@ -16116,7 +16116,7 @@ layout: none
   },
   {
     "pid": "00167cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "People, Women, Document",
     "description": "The Emerson Club, 1913(?)",
@@ -17668,9 +17668,9 @@ layout: none
   },
   {
     "pid": "00201cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
+    "label": "Leadville",
+    "location": "Leadville (Colo.)",
+    "keywords": "Lake County Civic Center Association, Mozingo organ",
     "description": "Mozingo organ, donated to LCCCA, handmade in 1877",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -22356,7 +22356,7 @@ layout: none
   },
   {
     "pid": "00146cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "Letter, Document",
     "description": "Letter from B. O. Longyear to Nils Schedin, 1915",
@@ -22388,10 +22388,10 @@ layout: none
   },
   {
     "pid": "00210cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
-    "description": "D&RGRR wreck, Blue River Branch",
+    "label": "Railroad Images",
+    "location": "Blue River (Colo.)",
+    "keywords": "Denver and Rio Grande Western Railroad Company, Blue River, wreckage",
+    "description": "Denver and Rio Grande Western Railroad Company wreck, Blue River Branch",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
     "creation_date": null,
@@ -22804,11 +22804,11 @@ layout: none
   },
   {
     "pid": "00202cc",
-    "label": "Uncategorized",
+    "label": "People",
     "location": null,
-    "keywords": null,
+    "keywords": "People, Women",
     "description": "Herriet Dexter Parvin",
-    "named_persons": null,
+    "named_persons": "Herriet Dexter Parvin",
     "rights": "This photo is property of Lake County Civic Center Association.",
     "creation_date": null,
     "format": "Photo",
@@ -23924,13 +23924,13 @@ layout: none
   },
   {
     "pid": "00203cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
+    "label": "Buildings and Businesses",
+    "location": "Leadville (Colo.)",
+    "keywords": "Tabor Opera House, Harrison Ave, Buildings, Businesses",
     "description": "Tabor Opera House under construction, November 1879",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
-    "creation_date": null,
+    "creation_date": "11/1879",
     "format": "Photo",
     "source": "Scanned Negative",
     "thumbnail": "/img/derivatives/iiif/images/00203cc/full/250,/0/default.jpg",
@@ -24372,10 +24372,10 @@ layout: none
   },
   {
     "pid": "00219cc",
-    "label": "Uncategorized",
+    "label": "Mining",
     "location": null,
-    "keywords": null,
-    "description": "California Gulch",
+    "keywords": "California Gulch, Mining",
+    "description": "California Gulch below Oro",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
     "creation_date": null,
@@ -25540,7 +25540,7 @@ layout: none
   },
   {
     "pid": "00163cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "Document",
     "description": "Questionnaire, State Historical & Natural History Society, War History Division to Nils Schedin",
@@ -26948,7 +26948,7 @@ layout: none
   },
   {
     "pid": "00142cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": null,
     "keywords": "Businesses, Certificate",
     "description": "Diplom, Uddevalia Museum, to Herr Nils Schedin, 12/22/1894",
@@ -28692,9 +28692,9 @@ layout: none
   },
   {
     "pid": "00206cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
+    "label": "Buildings and Businesses",
+    "location": "Leadville (Colo.)",
+    "keywords": "Ice Palace",
     "description": "Ice Palace main entrance (W H Jackson photo)",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -29716,13 +29716,13 @@ layout: none
   },
   {
     "pid": "00207cc",
-    "label": "Uncategorized",
+    "label": "Railroad Images",
     "location": null,
-    "keywords": null,
+    "keywords": "Colorado Midland Railway Company, People",
     "description": "C.M.R.R. bucking snow, February of 1899",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
-    "creation_date": null,
+    "creation_date": "2/1889",
     "format": "Photo",
     "source": "Scanned Negative",
     "thumbnail": "/img/derivatives/iiif/images/00207cc/full/250,/0/default.jpg",
@@ -30036,9 +30036,9 @@ layout: none
   },
   {
     "pid": "00204cc",
-    "label": "Uncategorized",
+    "label": "People",
     "location": null,
-    "keywords": null,
+    "keywords": "People, Men, Memorial",
     "description": "Memorial of unidentified man",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -31940,13 +31940,13 @@ layout: none
   },
   {
     "pid": "00212cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
+    "label": "Outside Lake County",
+    "location": "Glenwood Springs (Colo.)",
+    "keywords": "Hotel Colorado, Business, Buildings",
     "description": "Hotel Colorado, Glenwood Springs, Colorado, 5/15/1898",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
-    "creation_date": null,
+    "creation_date": "5/15/1898",
     "format": "Photo",
     "source": "Scanned Negative",
     "thumbnail": "/img/derivatives/iiif/images/00212cc/full/250,/0/default.jpg",
@@ -32260,7 +32260,7 @@ layout: none
   },
   {
     "pid": "00196cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": "Leadville (Colo.)",
     "keywords": "People, Men, Women",
     "description": "Leadville High School Seniors, 1913",
@@ -33492,10 +33492,10 @@ layout: none
   },
   {
     "pid": "00215cc",
-    "label": "Uncategorized",
+    "label": "Mining",
     "location": null,
-    "keywords": null,
-    "description": "Yak Tunnel",
+    "keywords": "Yak Tunnel, California Gulch, Mining, Railroad",
+    "description": "Yak Tunnel, California Gulch",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
     "creation_date": null,
@@ -33732,13 +33732,13 @@ layout: none
   },
   {
     "pid": "00209cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
-    "description": "D&RGRR, Blue River Branch, 2/16/1899",
+    "label": "Railroad Images",
+    "location": "Blue River (Colo.)",
+    "keywords": "Denver and Rio Grande Western Railroad Company, Blue River",
+    "description": "Denver and Rio Grande Western Railroad Company, Blue River Branch, 2/16/1899",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
-    "creation_date": null,
+    "creation_date": "2/16/1889",
     "format": "Photo",
     "source": "Scanned Negative",
     "thumbnail": "/img/derivatives/iiif/images/00209cc/full/250,/0/default.jpg",
@@ -36164,9 +36164,9 @@ layout: none
   },
   {
     "pid": "00211cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
+    "label": "Buildings and Businesses",
+    "location": "Leadville (Colo.)",
+    "keywords": "School house, Buildings",
     "description": "Central School",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -36469,7 +36469,7 @@ layout: none
   {
     "pid": "00197cc",
     "label": "Mining",
-    "location": "Lake Creek (Lake County)",
+    "location": null,
     "keywords": "Mining, People, Men, Climax Molybdenum Mining Company",
     "description": "Group at portal of Phillipson level, Climax mine",
     "named_persons": null,
@@ -36877,7 +36877,7 @@ layout: none
     "creation_date": null,
     "format": "Photo",
     "source": "Scanned Photo",
-    "thumbnail": "/img/derivatives/iiif/images/00282pl/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/00282cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00282pl",
     "lunr_id": 2304
@@ -37620,9 +37620,9 @@ layout: none
   },
   {
     "pid": "00213cc",
-    "label": "Uncategorized",
+    "label": "People",
     "location": null,
-    "keywords": null,
+    "keywords": "People, Children, School House",
     "description": "Unidentified school group and teachers",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -41284,9 +41284,9 @@ layout: none
   },
   {
     "pid": "00205cc",
-    "label": "Uncategorized",
-    "location": null,
-    "keywords": null,
+    "label": "Buildings and Businesses",
+    "location": "Leadville (Colo.)",
+    "keywords": "Ice Palace, Animals, Business",
     "description": "Ice Palace exhibit of animals",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
@@ -43476,10 +43476,10 @@ layout: none
   },
   {
     "pid": "00218cc",
-    "label": "Uncategorized",
+    "label": "Mining",
     "location": null,
-    "keywords": null,
-    "description": "Chrysolite Mill, possibly Robert E. Lee mine on left",
+    "keywords": "Mills, Mining",
+    "description": "Chrysolite Mill, possibly Robert E. Lee mine on left, Guller & Co.",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
     "creation_date": null,
@@ -45028,7 +45028,7 @@ layout: none
   },
   {
     "pid": "00193cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": "Leadville (Colo.)",
     "keywords": "Document, Races",
     "description": "Race program, front cover, 6/6/1909",
@@ -47267,6 +47267,22 @@ layout: none
     "lunr_id": 2953
   },
   {
+    "pid": "00166pl",
+    "label": "Uncategorized",
+    "location": null,
+    "keywords": null,
+    "description": "Camp Hale-Army equipment as carried in mule packs for survey loads. It consists of aiming circle, cased; mountain transit legs, cased; stadia rod, plane table, cased with tape; plane table legs, cased; mountain transit, cased 1 Class A pack, manta, lair rope. Camp Hale, Colo. March 16, 1944.",
+    "named_persons": null,
+    "rights": "This photo is property of Lake County Public Library.",
+    "creation_date": null,
+    "format": "Photo",
+    "source": "Scanned Photo",
+    "thumbnail": null,
+    "collection": "cmhc",
+    "permalink": "/cmhc/00166pl",
+    "lunr_id": 2954
+  },
+  {
     "pid": "02596cc",
     "label": "Uncategorized",
     "location": null,
@@ -47280,7 +47296,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02596cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02596cc",
-    "lunr_id": 2954
+    "lunr_id": 2955
   },
   {
     "pid": "00491cc",
@@ -47296,7 +47312,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00491cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00491cc",
-    "lunr_id": 2955
+    "lunr_id": 2956
   },
   {
     "pid": "02345cc",
@@ -47312,7 +47328,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02345cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02345cc",
-    "lunr_id": 2956
+    "lunr_id": 2957
   },
   {
     "pid": "02604cc",
@@ -47328,7 +47344,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02604cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02604cc",
-    "lunr_id": 2957
+    "lunr_id": 2958
   },
   {
     "pid": "00301cc",
@@ -47344,7 +47360,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00301cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00301cc",
-    "lunr_id": 2958
+    "lunr_id": 2959
   },
   {
     "pid": "01202cc",
@@ -47360,7 +47376,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01202cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01202cc",
-    "lunr_id": 2959
+    "lunr_id": 2960
   },
   {
     "pid": "00924cc",
@@ -47376,7 +47392,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00924cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00924cc",
-    "lunr_id": 2960
+    "lunr_id": 2961
   },
   {
     "pid": "02491cc",
@@ -47392,7 +47408,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02491cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02491cc",
-    "lunr_id": 2961
+    "lunr_id": 2962
   },
   {
     "pid": "00919cc",
@@ -47408,7 +47424,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00919cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00919cc",
-    "lunr_id": 2962
+    "lunr_id": 2963
   },
   {
     "pid": "00660cc",
@@ -47424,7 +47440,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00660cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00660cc",
-    "lunr_id": 2963
+    "lunr_id": 2964
   },
   {
     "pid": "00901cc",
@@ -47440,7 +47456,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00901cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00901cc",
-    "lunr_id": 2964
+    "lunr_id": 2965
   },
   {
     "pid": "01824cc",
@@ -47456,7 +47472,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01824cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01824cc",
-    "lunr_id": 2965
+    "lunr_id": 2966
   },
   {
     "pid": "01108cc",
@@ -47472,7 +47488,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01108cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01108cc",
-    "lunr_id": 2966
+    "lunr_id": 2967
   },
   {
     "pid": "00088cc",
@@ -47488,7 +47504,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00088cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00088cc",
-    "lunr_id": 2967
+    "lunr_id": 2968
   },
   {
     "pid": "01264cc",
@@ -47504,7 +47520,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01264cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01264cc",
-    "lunr_id": 2968
+    "lunr_id": 2969
   },
   {
     "pid": "02813cc",
@@ -47520,7 +47536,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02813cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02813cc",
-    "lunr_id": 2969
+    "lunr_id": 2970
   },
   {
     "pid": "00593cc",
@@ -47536,11 +47552,11 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00593cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00593cc",
-    "lunr_id": 2970
+    "lunr_id": 2971
   },
   {
     "pid": "00200cc",
-    "label": "Documents and Certificates",
+    "label": "Documents and Objects",
     "location": "Leadville (Colo.)",
     "keywords": "Document, Mining",
     "description": "Gold exhibit, Carbonate National Bank",
@@ -47552,7 +47568,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00200cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00200cc",
-    "lunr_id": 2971
+    "lunr_id": 2972
   },
   {
     "pid": "01570cc",
@@ -47568,7 +47584,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01570cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01570cc",
-    "lunr_id": 2972
+    "lunr_id": 2973
   },
   {
     "pid": "01630cc",
@@ -47584,7 +47600,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01630cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01630cc",
-    "lunr_id": 2973
+    "lunr_id": 2974
   },
   {
     "pid": "00678cc",
@@ -47600,7 +47616,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00678cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00678cc",
-    "lunr_id": 2974
+    "lunr_id": 2975
   },
   {
     "pid": "01929cc",
@@ -47616,7 +47632,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01929cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01929cc",
-    "lunr_id": 2975
+    "lunr_id": 2976
   },
   {
     "pid": "00830cc",
@@ -47632,7 +47648,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00830cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00830cc",
-    "lunr_id": 2976
+    "lunr_id": 2977
   },
   {
     "pid": "02059cc",
@@ -47648,7 +47664,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02059cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02059cc",
-    "lunr_id": 2977
+    "lunr_id": 2978
   },
   {
     "pid": "00445pl",
@@ -47664,7 +47680,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00445pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00445pl",
-    "lunr_id": 2978
+    "lunr_id": 2979
   },
   {
     "pid": "02702cc",
@@ -47680,7 +47696,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02702cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02702cc",
-    "lunr_id": 2979
+    "lunr_id": 2980
   },
   {
     "pid": "00429cc",
@@ -47696,7 +47712,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00429cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00429cc",
-    "lunr_id": 2980
+    "lunr_id": 2981
   },
   {
     "pid": "01683cc",
@@ -47712,7 +47728,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01683cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01683cc",
-    "lunr_id": 2981
+    "lunr_id": 2982
   },
   {
     "pid": "00296cc",
@@ -47728,7 +47744,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00296cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00296cc",
-    "lunr_id": 2982
+    "lunr_id": 2983
   },
   {
     "pid": "01274cc",
@@ -47744,7 +47760,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01274cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01274cc",
-    "lunr_id": 2983
+    "lunr_id": 2984
   },
   {
     "pid": "00278pl",
@@ -47760,7 +47776,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00278pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00278pl",
-    "lunr_id": 2984
+    "lunr_id": 2985
   },
   {
     "pid": "00281cc",
@@ -47776,7 +47792,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00281cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00281cc",
-    "lunr_id": 2985
+    "lunr_id": 2986
   },
   {
     "pid": "01230cc",
@@ -47792,7 +47808,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01230cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01230cc",
-    "lunr_id": 2986
+    "lunr_id": 2987
   },
   {
     "pid": "02723cc",
@@ -47808,7 +47824,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02723cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02723cc",
-    "lunr_id": 2987
+    "lunr_id": 2988
   },
   {
     "pid": "00477pl",
@@ -47824,7 +47840,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00477pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00477pl",
-    "lunr_id": 2988
+    "lunr_id": 2989
   },
   {
     "pid": "00482pl",
@@ -47840,7 +47856,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00482pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00482pl",
-    "lunr_id": 2989
+    "lunr_id": 2990
   },
   {
     "pid": "00390pl",
@@ -47856,7 +47872,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00390pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00390pl",
-    "lunr_id": 2990
+    "lunr_id": 2991
   },
   {
     "pid": "02269cc",
@@ -47872,7 +47888,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02269cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02269cc",
-    "lunr_id": 2991
+    "lunr_id": 2992
   },
   {
     "pid": "02051cc",
@@ -47888,7 +47904,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02051cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02051cc",
-    "lunr_id": 2992
+    "lunr_id": 2993
   },
   {
     "pid": "00132cc",
@@ -47904,7 +47920,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00132cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00132cc",
-    "lunr_id": 2993
+    "lunr_id": 2994
   },
   {
     "pid": "00254pl",
@@ -47920,7 +47936,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00254pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00254pl",
-    "lunr_id": 2994
+    "lunr_id": 2995
   },
   {
     "pid": "00926cc",
@@ -47936,7 +47952,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00926cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00926cc",
-    "lunr_id": 2995
+    "lunr_id": 2996
   },
   {
     "pid": "00352pl",
@@ -47952,7 +47968,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00352pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00352pl",
-    "lunr_id": 2996
+    "lunr_id": 2997
   },
   {
     "pid": "01693cc",
@@ -47968,7 +47984,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01693cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01693cc",
-    "lunr_id": 2997
+    "lunr_id": 2998
   },
   {
     "pid": "00122pl",
@@ -47984,7 +48000,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00122pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00122pl",
-    "lunr_id": 2998
+    "lunr_id": 2999
   },
   {
     "pid": "00118pl",
@@ -48000,7 +48016,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00118pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00118pl",
-    "lunr_id": 2999
+    "lunr_id": 3000
   },
   {
     "pid": "01103cc",
@@ -48016,7 +48032,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01103cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01103cc",
-    "lunr_id": 3000
+    "lunr_id": 3001
   },
   {
     "pid": "01357cc",
@@ -48032,7 +48048,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01357cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01357cc",
-    "lunr_id": 3001
+    "lunr_id": 3002
   },
   {
     "pid": "00361pl",
@@ -48048,7 +48064,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00361pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00361pl",
-    "lunr_id": 3002
+    "lunr_id": 3003
   },
   {
     "pid": "00471cc",
@@ -48064,7 +48080,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00471cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00471cc",
-    "lunr_id": 3003
+    "lunr_id": 3004
   },
   {
     "pid": "02077cc",
@@ -48080,7 +48096,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02077cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02077cc",
-    "lunr_id": 3004
+    "lunr_id": 3005
   },
   {
     "pid": "00372pl",
@@ -48096,7 +48112,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00372pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00372pl",
-    "lunr_id": 3005
+    "lunr_id": 3006
   },
   {
     "pid": "01942cc",
@@ -48112,7 +48128,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01942cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01942cc",
-    "lunr_id": 3006
+    "lunr_id": 3007
   },
   {
     "pid": "02054cc",
@@ -48128,7 +48144,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02054cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02054cc",
-    "lunr_id": 3007
+    "lunr_id": 3008
   },
   {
     "pid": "00420pl",
@@ -48144,7 +48160,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00420pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00420pl",
-    "lunr_id": 3008
+    "lunr_id": 3009
   },
   {
     "pid": "00988cc",
@@ -48160,7 +48176,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00988cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00988cc",
-    "lunr_id": 3009
+    "lunr_id": 3010
   },
   {
     "pid": "00481pl",
@@ -48176,7 +48192,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00481pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00481pl",
-    "lunr_id": 3010
+    "lunr_id": 3011
   },
   {
     "pid": "01414cc",
@@ -48192,7 +48208,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01414cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01414cc",
-    "lunr_id": 3011
+    "lunr_id": 3012
   },
   {
     "pid": "01143cc",
@@ -48208,7 +48224,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01143cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01143cc",
-    "lunr_id": 3012
+    "lunr_id": 3013
   },
   {
     "pid": "02134cc",
@@ -48224,7 +48240,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02134cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02134cc",
-    "lunr_id": 3013
+    "lunr_id": 3014
   },
   {
     "pid": "00551cc",
@@ -48240,7 +48256,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00551cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00551cc",
-    "lunr_id": 3014
+    "lunr_id": 3015
   },
   {
     "pid": "00494cc",
@@ -48256,7 +48272,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00494cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00494cc",
-    "lunr_id": 3015
+    "lunr_id": 3016
   },
   {
     "pid": "00729cc",
@@ -48272,7 +48288,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00729cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00729cc",
-    "lunr_id": 3016
+    "lunr_id": 3017
   },
   {
     "pid": "00131pl",
@@ -48288,7 +48304,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00131pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00131pl",
-    "lunr_id": 3017
+    "lunr_id": 3018
   },
   {
     "pid": "02799cc",
@@ -48304,7 +48320,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02799cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02799cc",
-    "lunr_id": 3018
+    "lunr_id": 3019
   },
   {
     "pid": "01173cc",
@@ -48320,7 +48336,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01173cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01173cc",
-    "lunr_id": 3019
+    "lunr_id": 3020
   },
   {
     "pid": "01032cc",
@@ -48336,7 +48352,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01032cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01032cc",
-    "lunr_id": 3020
+    "lunr_id": 3021
   },
   {
     "pid": "00510cc",
@@ -48352,7 +48368,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00510cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00510cc",
-    "lunr_id": 3021
+    "lunr_id": 3022
   },
   {
     "pid": "00959cc",
@@ -48368,7 +48384,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00959cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00959cc",
-    "lunr_id": 3022
+    "lunr_id": 3023
   },
   {
     "pid": "02125cc",
@@ -48384,7 +48400,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02125cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02125cc",
-    "lunr_id": 3023
+    "lunr_id": 3024
   },
   {
     "pid": "00177cc",
@@ -48400,7 +48416,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00177cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00177cc",
-    "lunr_id": 3024
+    "lunr_id": 3025
   },
   {
     "pid": "02346cc",
@@ -48416,7 +48432,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02346cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02346cc",
-    "lunr_id": 3025
+    "lunr_id": 3026
   },
   {
     "pid": "00909cc",
@@ -48432,7 +48448,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00909cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00909cc",
-    "lunr_id": 3026
+    "lunr_id": 3027
   },
   {
     "pid": "00182cc",
@@ -48448,7 +48464,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00182cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00182cc",
-    "lunr_id": 3027
+    "lunr_id": 3028
   },
   {
     "pid": "02674cc",
@@ -48464,7 +48480,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02674cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02674cc",
-    "lunr_id": 3028
+    "lunr_id": 3029
   },
   {
     "pid": "00280pl",
@@ -48480,7 +48496,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00280pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00280pl",
-    "lunr_id": 3029
+    "lunr_id": 3030
   },
   {
     "pid": "00344pl",
@@ -48496,7 +48512,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00344pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00344pl",
-    "lunr_id": 3030
+    "lunr_id": 3031
   },
   {
     "pid": "02426cc",
@@ -48512,7 +48528,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02426cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02426cc",
-    "lunr_id": 3031
+    "lunr_id": 3032
   },
   {
     "pid": "01625cc",
@@ -48528,7 +48544,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01625cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01625cc",
-    "lunr_id": 3032
+    "lunr_id": 3033
   },
   {
     "pid": "00011pl",
@@ -48544,7 +48560,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00011pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00011pl",
-    "lunr_id": 3033
+    "lunr_id": 3034
   },
   {
     "pid": "02753cc",
@@ -48560,7 +48576,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02753cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02753cc",
-    "lunr_id": 3034
+    "lunr_id": 3035
   },
   {
     "pid": "02089cc",
@@ -48576,7 +48592,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02089cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02089cc",
-    "lunr_id": 3035
+    "lunr_id": 3036
   },
   {
     "pid": "01536cc",
@@ -48592,7 +48608,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01536cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01536cc",
-    "lunr_id": 3036
+    "lunr_id": 3037
   },
   {
     "pid": "00556cc",
@@ -48608,7 +48624,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00556cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00556cc",
-    "lunr_id": 3037
+    "lunr_id": 3038
   },
   {
     "pid": "01724cc",
@@ -48624,7 +48640,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01724cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01724cc",
-    "lunr_id": 3038
+    "lunr_id": 3039
   },
   {
     "pid": "00287pl",
@@ -48640,7 +48656,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00287pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00287pl",
-    "lunr_id": 3039
+    "lunr_id": 3040
   },
   {
     "pid": "00350pl",
@@ -48656,7 +48672,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00350pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00350pl",
-    "lunr_id": 3040
+    "lunr_id": 3041
   },
   {
     "pid": "01660cc",
@@ -48672,7 +48688,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01660cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01660cc",
-    "lunr_id": 3041
+    "lunr_id": 3042
   },
   {
     "pid": "02579cc",
@@ -48688,7 +48704,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02579cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02579cc",
-    "lunr_id": 3042
+    "lunr_id": 3043
   },
   {
     "pid": "01359cc",
@@ -48704,7 +48720,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01359cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01359cc",
-    "lunr_id": 3043
+    "lunr_id": 3044
   },
   {
     "pid": "02464cc",
@@ -48720,7 +48736,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02464cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02464cc",
-    "lunr_id": 3044
+    "lunr_id": 3045
   },
   {
     "pid": "00245cc",
@@ -48736,7 +48752,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/00245cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00245cc",
-    "lunr_id": 3045
+    "lunr_id": 3046
   },
   {
     "pid": "01213cc",
@@ -48752,7 +48768,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01213cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01213cc",
-    "lunr_id": 3046
+    "lunr_id": 3047
   },
   {
     "pid": "01064cc",
@@ -48768,7 +48784,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01064cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01064cc",
-    "lunr_id": 3047
+    "lunr_id": 3048
   },
   {
     "pid": "02616cc",
@@ -48784,7 +48800,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/02616cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/02616cc",
-    "lunr_id": 3048
+    "lunr_id": 3049
   },
   {
     "pid": "01938cc",
@@ -48800,6 +48816,6 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/01938cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/01938cc",
-    "lunr_id": 3049
+    "lunr_id": 3050
   }
 ]
