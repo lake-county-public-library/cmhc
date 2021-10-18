@@ -7325,7 +7325,7 @@ layout: none
     "creation_date": null,
     "format": "Photo",
     "source": "Scanned Negative",
-    "thumbnail": "/img/derivatives/iiif/images/00282pl/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/00282cc/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00282cc",
     "lunr_id": 457
@@ -16455,7 +16455,7 @@ layout: none
     "label": "Uncategorized",
     "location": null,
     "keywords": null,
-    "description": "Thorne & Schaefer building (drawing)\n(Andrews collection) Nathan H. Thorne & Fred Schaefer - cigars, 214 Harrison Ave. Appears in the January 1, 1881 issue of the Leadville Weekly Democrat newspaper",
+    "description": "Thorne & Schaefer building (drawing) (Andrews collection) Nathan H. Thorne & Fred Schaefer - cigars, 214 Harrison Ave. Appears in the January 1, 1881 issue of the Leadville Weekly Democrat newspaper",
     "named_persons": null,
     "rights": "This photo is property of Lake County Civic Center Association.",
     "creation_date": null,
@@ -36877,7 +36877,7 @@ layout: none
     "creation_date": null,
     "format": "Photo",
     "source": "Scanned Photo",
-    "thumbnail": "/img/derivatives/iiif/images/00282cc/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/00282pl/full/250,/0/default.jpg",
     "collection": "cmhc",
     "permalink": "/cmhc/00282pl",
     "lunr_id": 2304
