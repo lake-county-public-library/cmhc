@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Documents and Objects Collection
+title: Documents & Objects Collection
 permalink: /docs/
 ---
 
-{% include collection_gallery.html collection='cmhc' facet_by='label' only='Documents and Objects' %}
+{% include collection_gallery.html collection='cmhc' facet_by='label' only='Documents & Objects' %}
