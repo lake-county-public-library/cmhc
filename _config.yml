@@ -127,7 +127,7 @@ menu:
         link: '/rail/'
       - label: 'Twin Lakes'
         link: '/twin/'
-      - label: 'Documents and Objects'
+      - label: 'Documents & Objects'
         link: '/docs/'
       - label: 'Uncategorized'
         link: '/uncat/'
