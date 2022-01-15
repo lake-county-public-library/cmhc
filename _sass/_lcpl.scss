@@ -70,6 +70,7 @@ lcpl header section
       .img-gallery-thumb {
         width: $thumbnail-index-width;
         height: 160px;
+        object-fit: cover;
       }
 
       .overlay {
