@@ -195,6 +195,9 @@ search box
   #results {
     .result {
       a {
+        img {
+          width: unset;
+        }
         p {
           .title{
             color: $accent-dark;
@@ -205,6 +208,11 @@ search box
   }
 }
 
+.sq-thumb-sm{
+  max-height: 200px;
+  width: unset;
+  height: unset;
+}
 
 .full-width {
   width: 100vw;
