@@ -130,6 +130,8 @@ menu:
         link: '/docs/'
       - label: 'Uncategorized'
         link: '/uncat/'
+  - label: 'Map'
+    link: '/map/'
   - label: 'Search'
     link: '/search/'
   - label: 'About'
