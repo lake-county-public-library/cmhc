@@ -9,7 +9,7 @@ banner:
 ---
 
 <div class='highlight-box'>
-Welcome to the new Colorado Mountain History Digital Collection! We are working to migrate our collection to our new platform, and this process will take some time. Thank you for your patience as we work to add items to our new site. Keep checking back to follow our progress. If you need help with a photo request or would like to purchase images, please email <a href="mailto:aj@lakecountypubliclibrary.org">aj@lakecountypubliclibrary.org</a> or call <a href="tel:719-486-0569">719-486-0569</a>.
+Welcome to the new Colorado Mountain History Digital Collection! We are working to migrate our collection to our new platform, and this process will take some time. Thank you for your patience as we work to add items to our new site. Keep checking back to follow our progress. If you need help with a photo request or would like to purchase images, please email <a href="mailto:jennifer@lakecountypubliclibrary.org">jennifer@lakecountypubliclibrary.org</a> or call <a href="tel:719-486-0569">719-486-0569</a>.
 </div>
 
 ### Browse the Collection
@@ -31,4 +31,4 @@ For those unable to come to Leadville, our local history staff can perform limit
  
 Research is performed within the resources we hold; we do not perform research at other sites, including churches, other libraries, etc. We also cannot handle extensive requests, i.e. researching an entire family line, or tracing the entire history of a building or house.
  
-Contact Aj Brokaw with your inquiries by emailing <a href="mailto:aj@lakecountypubliclibrary.org">aj@lakecountypubliclibrary.org</a> or by calling <a href="tel:719-486-0569">719-486-0569</a>.
+Contact Jennifer Marruffo with your inquiries by emailing <a href="mailto:jennifer@lakecountypubliclibrary.org">jennifer@lakecountypubliclibrary.org</a> or by calling <a href="tel:719-486-0569">719-486-0569</a>.
