@@ -932,7 +932,7 @@ layout: none
   },
   {
     "pid": "02360cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, People, Men, Drawing",
     "description": "Sharpening Steel (Seppi collection by Buck O'Donnell) ",
@@ -1412,7 +1412,7 @@ layout: none
   },
   {
     "pid": "01255cc",
-    "label": "Railroad Images",
+    "label": null,
     "location": "Clear Creek Canyon (Colo.)",
     "keywords": "Colorado Central Railroad, Locomotives, Railroad",
     "description": "Colorado Central Railroad (C.C.R.R.), Stony Point, Clear Creek Canyon (Jackson collection)",
@@ -1924,7 +1924,7 @@ layout: none
   },
   {
     "pid": "02353cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, Drawing",
     "description": "The Cornish Pump (Seppi collection by Buck O'Donnell) ",
@@ -2388,7 +2388,7 @@ layout: none
   },
   {
     "pid": "02357cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Men, Drawing",
     "description": "Timber Staff (Seppi collection by Buck O'Donnell) ",
@@ -3204,7 +3204,7 @@ layout: none
   },
   {
     "pid": "02341cc",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "People, Men, Mining, Drawing",
     "description": "Single Jacking (Seppi collection by Buck O'Donnell) ",
@@ -8548,7 +8548,7 @@ layout: none
   },
   {
     "pid": "01395cc",
-    "label": "Leadville",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "People, Men, Horses, Military, Houses",
     "description": "Mounted troops on W 6th Street (see also 00679cc)",
@@ -9284,7 +9284,7 @@ layout: none
   },
   {
     "pid": "01499cc",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "People, Men, Mules, Construction",
     "description": "Construction on powerline (O'Brien collection)",
@@ -9492,7 +9492,7 @@ layout: none
   },
   {
     "pid": "00460cc",
-    "label": "Leadville",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "Buildings, Businesses, People, Harrison Avenue",
     "description": "Harrison Avenue looking north, see also 00918CC",
@@ -10164,7 +10164,7 @@ layout: none
   },
   {
     "pid": "01257cc",
-    "label": "Railroad Images",
+    "label": null,
     "location": "Clear Creek Canyon (Colo.)",
     "keywords": "Colorado Central Railroad, Railroad, Locomotives",
     "description": "Colorado Central Railroad (C.C.R.R.), above the Forks, Clear Creek Canyon (Jackson collection)",
@@ -11812,7 +11812,7 @@ layout: none
   },
   {
     "pid": "01429pl",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "People, Women",
     "description": "Miss Madge Alderson, as Mrs. Sarah Teasberry",
@@ -11924,7 +11924,7 @@ layout: none
   },
   {
     "pid": "02340cc",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "People, Men, Burros, Drawing",
     "description": "The Old Timers (Seppi collection by Buck O'Donnell) ",
@@ -14420,7 +14420,7 @@ layout: none
   },
   {
     "pid": "00174pl",
-    "label": "People",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "People, Men, Women",
     "description": "Leadville High School graduating class 1909: (Out of Order) Grace Leona Adams, Adelina Cora Blasenich (valedictorian), Robert Dewar, John Alexander Grant, Edith Maud Green, M. Alice Morris, Kathryn Agnes O'Dea, Edna Malvina Peach, Charles Fletcher Priddy, Joseph Edward Purcell, Walter Edward Schwed, May Elizabeth Williams, Sidney Herbert L. West (Boynton photo)",
@@ -14980,7 +14980,7 @@ layout: none
   },
   {
     "pid": "02350cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Men, Drawing",
     "description": "The Hot Box (Seppi collection by Buck O'Donnell) ",
@@ -16004,7 +16004,7 @@ layout: none
   },
   {
     "pid": "01409cc",
-    "label": "Leadville",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "People, Men, Women, Buildings, Businesses, Ceremonies, Harrison Avenue",
     "description": "Large crowd and community Christmas tree on Harrison Avenue (see also 01621cc)",
@@ -17460,7 +17460,7 @@ layout: none
   },
   {
     "pid": "02347cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, Drawing",
     "description": "Steam Tractors (Seppi collection by Buck O'Donnell) ",
@@ -17572,7 +17572,7 @@ layout: none
   },
   {
     "pid": "01560cc",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "People, Men, Recreation",
     "description": "Two unidentified men playing cards",
@@ -19252,7 +19252,7 @@ layout: none
   },
   {
     "pid": "00356pl",
-    "label": "Buildings & Businesses",
+    "label": null,
     "location": null,
     "keywords": "Placeholder",
     "description": "Iron Hill",
@@ -22692,7 +22692,7 @@ layout: none
   },
   {
     "pid": "02348cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, Drawing",
     "description": "Open Pit Steam Shovel (Seppi collection by Buck O'Donnell) ",
@@ -23332,7 +23332,7 @@ layout: none
   },
   {
     "pid": "02174cc",
-    "label": "People",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "People, Men, Women",
     "description": "Unidentified Leadville people",
@@ -26596,7 +26596,7 @@ layout: none
   },
   {
     "pid": "00375pl",
-    "label": "People",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "People, Children",
     "description": "Brines Family Portrait: Ada Mabel Brines (back), Elbert Brines (left), Everett Brines (right), Bryan Brines (front) (Dave Endsley & Co. photo)",
@@ -26756,7 +26756,7 @@ layout: none
   },
   {
     "pid": "02363cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, People, Men, Drawing",
     "description": "The First Detachable Rock Drill Bit (Seppi collection by Buck O'Donnell) ",
@@ -27396,7 +27396,7 @@ layout: none
   },
   {
     "pid": "01523cc",
-    "label": "Documents & Objects",
+    "label": null,
     "location": "Leadvile (Colo.)",
     "keywords": "Documents, Military",
     "description": "Camp Mclntire Pass for Griffin Lynn Frost, December 22, 1896 (Frost collection) ",
@@ -28100,7 +28100,7 @@ layout: none
   },
   {
     "pid": "00878cc",
-    "label": "People",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "People, Men, Women",
     "description": "Silver Dollar Gang, with instruments (Kochevar collection)",
@@ -29028,7 +29028,7 @@ layout: none
   },
   {
     "pid": "01345pl",
-    "label": "Leadville",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "Cemetery",
     "description": "Evergreen Cemetery gate",
@@ -29940,7 +29940,7 @@ layout: none
   },
   {
     "pid": "02343cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Drawing",
     "description": "The Windlass (Seppi collection by Buck O'Donnell) ",
@@ -33124,7 +33124,7 @@ layout: none
   },
   {
     "pid": "02356cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Men, Drawing",
     "description": "Lunch Room (Seppi collection by Buck O'Donnell) ",
@@ -36820,7 +36820,7 @@ layout: none
   },
   {
     "pid": "02359cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, Burros, Drawing",
     "description": "Early Hoisting (Seppi collection by Buck O'Donnell) ",
@@ -38356,7 +38356,7 @@ layout: none
   },
   {
     "pid": "02342cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Drawing",
     "description": "The Mexican Mill (Arastre) (Seppi collection by Buck O'Donnell) ",
@@ -39060,7 +39060,7 @@ layout: none
   },
   {
     "pid": "01531cc",
-    "label": "People",
+    "label": null,
     "location": "Cripple Creek (Colo.)",
     "keywords": "People, Men, Fire Department, Horses, Wagon",
     "description": "Three-horse fire team, unidentified men (see also 01538cc) (Frost collection)",
@@ -39716,7 +39716,7 @@ layout: none
   },
   {
     "pid": "02358cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Men, Drawing",
     "description": "A Letter from Home (Seppi collection by Buck O'Donnell) ",
@@ -40596,7 +40596,7 @@ layout: none
   },
   {
     "pid": "02354cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, People, Men, Drawing",
     "description": "Down the Shaft (Seppi collection by Buck O'Donnell)",
@@ -44372,7 +44372,7 @@ layout: none
   },
   {
     "pid": "00265pl",
-    "label": "Leadville",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "Buildings, Businesses, Harrison Avenue, People, Horses",
     "description": "Fourth of July parade on Harrison Avenue in 1903. ",
@@ -45172,7 +45172,7 @@ layout: none
   },
   {
     "pid": "02349cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, Drawing",
     "description": "The Mucking Pan (Seppi collection by Buck O'Donnell) ",
@@ -47764,7 +47764,7 @@ layout: none
   },
   {
     "pid": "00357pl",
-    "label": "Uncatagorized",
+    "label": null,
     "location": null,
     "keywords": "Placeholder",
     "description": "A. Y. Minnie Mill",
@@ -47956,7 +47956,7 @@ layout: none
   },
   {
     "pid": "01256cc",
-    "label": "Railroad Images",
+    "label": null,
     "location": "Clear Creek Canyon (Colo.)",
     "keywords": "Colorado Central Railroad, Railroad",
     "description": "Colorado Central Railroad (C.C.R.R.), Old Roadmaster, Clear Creek Canyon (Jackson collection)",
@@ -48724,7 +48724,7 @@ layout: none
   },
   {
     "pid": "00282pl",
-    "label": "People",
+    "label": null,
     "location": "Leadville (Colo.)",
     "keywords": "People, Men, Burros, Buildings, Businesses, Drawing",
     "description": "Men Standing on the Street in Leadville, Colorado",
@@ -49460,7 +49460,7 @@ layout: none
   },
   {
     "pid": "00359pl",
-    "label": "Mining",
+    "label": null,
     "location": "Leadville (Colo.), Stray Horse Gulch",
     "keywords": "Buildings, Mining, People, Men, Wagons, Burros",
     "description": "Mining Machinery in Stray Horse Gulch, near Leadville, was photographed during the 1880's by William H. Jackson",
@@ -52404,7 +52404,7 @@ layout: none
   },
   {
     "pid": "02344cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Drawing",
     "description": "Mucker (compressed air) (Seppi collection by Buck O'Donnell)",
@@ -54724,7 +54724,7 @@ layout: none
   },
   {
     "pid": "02355cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Men, Drawing",
     "description": "Square Set Timbering (Seppi collection by Buck O'Donnell)",
@@ -58212,7 +58212,7 @@ layout: none
   },
   {
     "pid": "02362cc",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "People, Men, Mining, Drawing",
     "description": "The Shift Boss (Seppi collection by Buck O'Donnell)",
@@ -59300,7 +59300,7 @@ layout: none
   },
   {
     "pid": "02352cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, Machinery, People, Men, Drawing",
     "description": "Steam Shovel - Open Pit (Seppi collection by Buck O'Donnell) ",
@@ -59700,7 +59700,7 @@ layout: none
   },
   {
     "pid": "02129cc",
-    "label": "Documents & Objects",
+    "label": null,
     "location": "Twin Lakes (Colo.)",
     "keywords": "Documents",
     "description": "Front page of Independence Pass and the Twin Lakes Toll Road by Don & Jean Griswold",
@@ -60116,7 +60116,7 @@ layout: none
   },
   {
     "pid": "02361cc",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "People, Men, Businesses, Drawing",
     "description": "Where the Mining was Done (Seppi collection by Buck O'Donnell) ",
@@ -61540,7 +61540,7 @@ layout: none
   },
   {
     "pid": "02351cc",
-    "label": "Buildings & Businesses",
+    "label": null,
     "location": null,
     "keywords": "Buildings, Businesses, People, Drawing",
     "description": "Pleasant Alley (Seppi collection by Buck O'Donnell) ",
@@ -62356,7 +62356,7 @@ layout: none
   },
   {
     "pid": "02345cc",
-    "label": "People",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Drawing",
     "description": "Takin' Five (Seppi collection by Buck O'Donnell) ",
@@ -63876,7 +63876,7 @@ layout: none
   },
   {
     "pid": "02346cc",
-    "label": "Mining",
+    "label": null,
     "location": null,
     "keywords": "Mining, People, Burros, Drawing",
     "description": "The Ore Train (Seppi collection by Buck O'Donnell)",
