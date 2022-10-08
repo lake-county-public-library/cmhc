@@ -23,18 +23,14 @@
         {%- capture item_html -%}
           "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}'/><div class='overlay'><p class='info'>{{ item.label }}</p></div></div></a></div>"
         {%- endcapture -%}
-        {% if item.key.size > 0 %}
-          gallery.append({{ item_html | strip_newlines }});
-        {% endif %}
+        gallery.append({{ item_html | strip_newlines }});
       {% endfor %}
     {% else %}
       {% for item in collection %}
         {%- capture item_html -%}
           "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}' alt='{{ item.label | escape }}'/><div class='overlay'><p class='info'>{{ item.label }}</p></div></div></a></div>"
         {%- endcapture -%}
-        {% if item.key.size > 0 %}
-          gallery.append({{ item_html | strip_newlines }});
-        {% endif %}
+        gallery.append({{ item_html | strip_newlines }});
       {% endfor %}
     {% endif %}
 
