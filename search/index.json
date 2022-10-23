@@ -484,7 +484,7 @@ layout: none
   },
   {
     "pid": "00911pl",
-    "label": null,
+    "label": "Outside Lake County",
     "location": null,
     "keywords": "Buildings",
     "description": "Cabins (Donated by Keith Roberts)",
@@ -15620,7 +15620,7 @@ layout: none
   },
   {
     "pid": "01786cc",
-    "label": null,
+    "label": "Uncategorized",
     "location": null,
     "keywords": null,
     "description": "Thomas Kennedy (Paris Panel)",
@@ -18004,7 +18004,7 @@ layout: none
   },
   {
     "pid": "00845pl",
-    "label": null,
+    "label": "Outside Lake County",
     "location": null,
     "keywords": "Lakes, Mountains",
     "description": "Unidentified Lakes, 1910 (Donated by John and Mary Smith)",
@@ -27828,7 +27828,7 @@ layout: none
   },
   {
     "pid": "00596pl",
-    "label": null,
+    "label": "Documents & Objects",
     "location": "Leadville (Colo.)",
     "keywords": "Animals",
     "description": "Gordon Setter",
@@ -37956,7 +37956,7 @@ layout: none
   },
   {
     "pid": "00811pl",
-    "label": null,
+    "label": "Leadville",
     "location": null,
     "keywords": "Lakes, Mountains",
     "description": "View of a Mountain Lake (Donated by John and Mary Smith)",
@@ -45092,7 +45092,7 @@ layout: none
   },
   {
     "pid": "00628pl",
-    "label": null,
+    "label": "Buildings & Businesses",
     "location": null,
     "keywords": "Buildings, Interiors",
     "description": "Natural History (Brisbois photo)",
@@ -52932,7 +52932,7 @@ layout: none
   },
   {
     "pid": "00844pl",
-    "label": null,
+    "label": "Outside Lake County",
     "location": null,
     "keywords": "Mountains",
     "description": "Mountain view (Donated by John and Mary Smith)",
@@ -61732,7 +61732,7 @@ layout: none
   },
   {
     "pid": "00846pl",
-    "label": null,
+    "label": "Outside Lake County",
     "location": null,
     "keywords": "Lakes, Mountains",
     "description": "Unidentified Lake, 1910 (Donated by John and Mary Smith)",
