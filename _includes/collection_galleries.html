@@ -1,4 +1,4 @@
-{% assign facet_values = include.facet_values | split: "," %}
+{% assign page_names = include.page_names | split: "," %}
 {% assign facet = include.facet %}
 {% assign collection = site[include.collection] %}
 
@@ -8,15 +8,15 @@
   <div class='wax-inline-container'>
   <div id="wax-galleries-all" class="wax-galleries">
 
-  {% for value in facet_values %}
+  {% for value in page_names %}
 
     <script type="text/javascript">
       $( document ).ready(function() {
         var gallery = $('#wax-galleries-all');
 
-        {% assign subset = collection | where: facet, value %}
-  
-        {% assign item = subset[0] %}
+        {% assign page_name = "pages/" | append: value | append: ".md" %}
+        {% assign page = site.pages | where: "path", page_name | first %}
+        {% assign item = collection | find: facet, page.cover-id %}
         {%- capture item_html -%}
           "<div class='galleries-item all'>
             <div class='hovereffect'>
