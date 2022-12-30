@@ -157,4 +157,9 @@ footer:
   logos:
     - img: '/img/logo.png'
 
+# --------------------------------------------------------------
+# GOOGLE ANALYTICS SETTINGS
+# --------------------------------------------------------------
+google_analytics: G-426Y3GLHWW
+
 # FIN
