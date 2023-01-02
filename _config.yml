@@ -72,6 +72,14 @@ collections:
       source: 'cmhc.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/cmhc' # path to the directory of images within `_data`
+  directories: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'cmhc_item' # the layout for the pages to use
+    metadata:
+      source: 'directories.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/directories' # path to the directory of images within `_data`
+
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -96,6 +104,16 @@ search:
           - named_persons
           - source
           - rights
+          - pid
+  directories:
+    index: '/search/directories.json' # file the index will get written to
+    collections:
+      directories:
+        content: false
+        fields:
+          - keywords
+          - description
+          - text
           - pid
 
 # --------------------------------------------------------------

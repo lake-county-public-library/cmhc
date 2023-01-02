@@ -1,0 +1,19 @@
+{% assign keys = include.search | split: ',' %}
+
+<select id="coll">
+  <option value="x"></option>
+{%- for key in keys -%}
+  <option value="{{ key | downcase | replace: " ", "" }}">{{ key }}</option>
+{%- endfor -%}
+</select>
+
+<script type="text/javascript">
+
+  $(document).ready(function () {
+    $("#coll").change(function () {
+      var value = $("#coll").val();
+      window.location.href = value
+    });
+  });
+
+</script>
