@@ -8,11 +8,13 @@ rm -v search/*
 
 #bundle exec rake wax:derivatives:iiif cmhc
 #bundle exec rake wax:derivatives:iiif directories
-bundle exec rake wax:derivatives:iiif census
+#bundle exec rake wax:derivatives:iiif census
 bundle exec rake wax:pages cmhc
 bundle exec rake wax:pages directories
+bundle exec rake wax:pages census
 bundle exec rake wax:search main
 bundle exec rake wax:search directories
+bundle exec rake wax:search census
 
 #read -p "continue with 'clean' when ready..." -n 1
 bundle exec jekyll clean
