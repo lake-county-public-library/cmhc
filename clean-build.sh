@@ -2,11 +2,13 @@
 
 rm -v _cmhc/*
 rm -v _directories/*
+rm -v _census/*
 rm -v search/*
 
 
 #bundle exec rake wax:derivatives:iiif cmhc
 #bundle exec rake wax:derivatives:iiif directories
+bundle exec rake wax:derivatives:iiif census
 bundle exec rake wax:pages cmhc
 bundle exec rake wax:pages directories
 bundle exec rake wax:search main
