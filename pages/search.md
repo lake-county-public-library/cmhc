@@ -4,4 +4,4 @@ title: Search the Collection
 permalink: /search/
 ---
 
-{% include search_top.html search='Images,City Directories' %}
+{% include search_top.html search='Images,City Directories,Census Indices' %}

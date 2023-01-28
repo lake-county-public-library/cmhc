@@ -79,6 +79,13 @@ collections:
       source: 'directories.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/directories' # path to the directory of images within `_data`
+  census: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'cmhc_item' # the layout for the pages to use
+    metadata:
+      source: 'census.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/census' # path to the directory of images within `_data`
 
 
 # --------------------------------------------------------------
@@ -109,6 +116,16 @@ search:
     index: '/search/directories.json' # file the index will get written to
     collections:
       directories:
+        content: false
+        fields:
+          - keywords
+          - description
+          - text
+          - pid
+  census:
+    index: '/search/census.json' # file the index will get written to
+    collections:
+      census:
         content: false
         fields:
           - keywords
