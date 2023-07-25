@@ -22,6 +22,18 @@ ENV LANG en_US.utf8
 RUN mkdir /wax
 COPY Gemfile* *.gemspec ./wax
 WORKDIR /wax
+
+RUN useradd --create-home MARMOT+awoods
+RUN groupadd MARMOT+domain
+RUN usermod -G MARMOT+domain MARMOT+awoods
+
+# Update permissions for the etdadm user and group
+COPY change_id.sh /root/change_id.sh
+RUN chmod 755 /root/change_id.sh && \
+  /root/change_id.sh -u 2009348 -g 2000513
+
+USER MARMOT+awoods
+
 RUN bundle
 
 EXPOSE 4000
