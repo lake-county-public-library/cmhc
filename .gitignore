@@ -18,7 +18,7 @@ wax_tasks
 package-lock.json
 img/derivatives/*
 *~
-
+misc/
 notes.txt
 *.swp
 _data/raw_images/*
