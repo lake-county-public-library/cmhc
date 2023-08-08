@@ -22,3 +22,5 @@ misc/
 notes.txt
 *.swp
 _data/raw_images/*
+build.*
+.trash
