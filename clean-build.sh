@@ -13,7 +13,7 @@ fi
 
 date
 #bundle exec rake wax:derivatives:iiif cmhc
-bundle exec rake wax:derivatives:iiif directories
+#bundle exec rake wax:derivatives:iiif directories
 #bundle exec rake wax:derivatives:iiif census
 bundle exec rake wax:pages cmhc
 bundle exec rake wax:pages directories
@@ -29,6 +29,9 @@ date; time bundle exec jekyll clean
 date; time JEKYLL_ENV=production bundle exec jekyll build > misc/build.out 2>&1
 #date; time JEKYLL_ENV=production bundle exec jekyll build --profile > misc/build.out 2>&1
 
+# echo "gzip -v9 search/directories.json"
+# gzip -v9 search/directories.json
+# mv search/directories.json.gz search/directories.json
 date
 
 #date; time aws s3 sync _site/ s3://history.lakecountypubliclibrary.org/cmhc/ --delete --exclude clean-build.sh --exclude notes.txt --exclude s3_website.yml --exclude misc --size-only --profile lcpl

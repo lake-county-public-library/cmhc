@@ -39,6 +39,7 @@ exclude:
   - vendor
   - spec
   - README.md
+  - misc/
 incremental: true
 webrick:
   headers:
