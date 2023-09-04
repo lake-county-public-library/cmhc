@@ -11,6 +11,11 @@ if [ -z _site ]; then
   rm -rf .trash &
 fi
 
+# Load from stash
+cp stash/small-census.csv _data/census.csv
+cp stash/small-cmhc.csv _data/cmhc.csv
+cp stash/small-directories.csv _data/directories.csv
+
 date
 #bundle exec rake wax:derivatives:iiif cmhc
 #bundle exec rake wax:derivatives:iiif directories
@@ -22,11 +27,15 @@ bundle exec rake wax:search main
 bundle exec rake wax:search directories
 bundle exec rake wax:search census
 
+
+# Load from stash, for search index
+cp stash/directories.json search/
+
 #read -p "continue with 'clean' when ready..." -n 1
 date; time bundle exec jekyll clean
 
 #read -p "continue with 'build' when ready..." -n 1
-date; time JEKYLL_ENV=production bundle exec jekyll build > misc/build.out 2>&1
+#date; time JEKYLL_ENV=production bundle exec jekyll build > misc/build.out 2>&1
 #date; time JEKYLL_ENV=production bundle exec jekyll build --profile > misc/build.out 2>&1
 
 # echo "gzip -v9 search/directories.json"
@@ -54,5 +63,5 @@ date; time aws s3 sync --dryrun _site/ s3://history.lakecountypubliclibrary.org/
 ## Retain complete 'img/' 
 # rsync --dry-run --size-only -avz img/ misc/img-src/ | tee rsync.out
 
-#bundle exec jekyll serve
+bundle exec jekyll serve
 #bundle exec jekyll serve --no-watch
