@@ -11,9 +11,14 @@ if [ -z _site ]; then
   rm -rf .trash &
 fi
 
+# Load from stash
+cp stash/small-census.csv _data/census.csv
+cp stash/small-cmhc.csv _data/cmhc.csv
+cp stash/small-directories.csv _data/directories.csv
+
 date
 #bundle exec rake wax:derivatives:iiif cmhc
-bundle exec rake wax:derivatives:iiif directories
+#bundle exec rake wax:derivatives:iiif directories
 #bundle exec rake wax:derivatives:iiif census
 bundle exec rake wax:pages cmhc
 bundle exec rake wax:pages directories
@@ -22,11 +27,15 @@ bundle exec rake wax:search main
 bundle exec rake wax:search directories
 bundle exec rake wax:search census
 
+
+# Load from stash, for search index
+cp stash/directories.json search/
+
 #read -p "continue with 'clean' when ready..." -n 1
 date; time bundle exec jekyll clean
 
 #read -p "continue with 'build' when ready..." -n 1
-date; time JEKYLL_ENV=production bundle exec jekyll build > misc/build.out 2>&1
+#date; time JEKYLL_ENV=production bundle exec jekyll build > misc/build.out 2>&1
 #date; time JEKYLL_ENV=production bundle exec jekyll build --profile > misc/build.out 2>&1
 
 date
@@ -34,5 +43,5 @@ date
 #date; time aws s3 sync _site/ s3://history.lakecountypubliclibrary.org/cmhc/ --delete --exclude clean-build.sh --exclude notes.txt --exclude s3_website.yml --exclude misc --size-only --profile lcpl
 #date; time aws s3 sync --dryrun _site/ s3://history.lakecountypubliclibrary.org/cmhc/ --delete --exclude clean-build.sh --exclude notes.txt --exclude s3_website.yml --exclude misc --size-only --profile lcpl
 
-#bundle exec jekyll serve
+bundle exec jekyll serve
 #bundle exec jekyll serve --no-watch
