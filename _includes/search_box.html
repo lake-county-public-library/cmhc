@@ -11,6 +11,12 @@
 {%- endcapture -%}
 {% assign fields = fields | split: '|||' | uniq %}
 
+<div id="loader-wrapper">
+  <div id="loader" class="center"></div>
+  <div class="preloader-text">
+      Loading Index...
+  </div>
+</div>
 <div class='search-block'>
   <div class='input-group'>
     <input type='text' class='form-control' id='search' name='x' placeholder='{{ placeholder }}'>
@@ -25,7 +31,9 @@
   var indexFile = "{{ index }}";
   var url       = "{{ '' | absolute_url }}";
 
+  document.querySelector("#loader-wrapper").style.visibility = "visible";
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);
+    document.querySelector("#loader-wrapper").style.display= "none";
   });
 </script>
