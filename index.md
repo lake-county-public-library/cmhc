@@ -17,7 +17,7 @@ Welcome to the new Colorado Mountain History Digital Collection! We are working 
 {% include collection_galleries.html
 	collection='cmhc'
 	facet='pid'
-	page_names='twin,band,climax,leadville,mining,outside,people,rail,docs,uncat' %}
+	page_names='twin,band,climax,leadville,mining,outside,people,rail,docs' %}
 
 <a href='{{ "full" | absolute_url }}'>Full Collection</a>
 

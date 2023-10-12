@@ -164,8 +164,6 @@ menu:
         link: '/twin/'
       - label: 'Documents & Objects'
         link: '/docs/'
-      - label: 'Uncategorized'
-        link: '/uncat/'
   - label: 'Map'
     link: '/map/'
   - label: 'Search'
