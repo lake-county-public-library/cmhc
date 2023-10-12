@@ -35,7 +35,7 @@ date; time JEKYLL_ENV=production bundle exec jekyll build > misc/build.out 2>&1
 date
 
 #date; time aws s3 sync _site/ s3://history.lakecountypubliclibrary.org/cmhc/ --delete --exclude clean-build.sh --exclude notes.txt --exclude s3_website.yml --exclude 'misc/*' --size-only --profile lcpl
-#date; time aws s3 sync --dryrun _site/ s3://history.lakecountypubliclibrary.org/cmhc/ --delete --exclude clean-build.sh --exclude notes.txt --exclude s3_website.yml --exclude 'misc/*' --size-only --profile lcpl
+date; time aws s3 sync --dryrun _site/ s3://history.lakecountypubliclibrary.org/cmhc/ --delete --exclude clean-build.sh --exclude notes.txt --exclude s3_website.yml --exclude 'misc/*' --size-only --profile lcpl
 
 #bundle exec jekyll serve
 #bundle exec jekyll serve --no-watch
