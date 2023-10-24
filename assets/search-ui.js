@@ -65,6 +65,12 @@ function startSearchUI(fields, indexFile, url) {
 
 // Added by awoods to delay search on keyup in search box
 function delay(callback, ms) {
+  document.querySelector("#loader-wrapper").style.visibility = "visible";
+  return do_delay(callback, ms)
+  document.querySelector("#loader-wrapper").style.display= "none";
+}
+
+function do_delay(callback, ms) {
   var timer = 0;
   return function() {
     var context = this, args = arguments;
