@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Images Collection
-permalink: /images/
+permalink: /cmhc/
 cover-id: 00034cc
 ---
 
