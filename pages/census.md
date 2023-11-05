@@ -2,7 +2,7 @@
 layout: page
 title: Lake County Census Indices
 permalink: /census/
-cover-id: 00102ci
+cover-id: 00011ci
 ---
 
 {% include collection_galleries.html
