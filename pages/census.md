@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lake County Census Indices
+title: Census Indices
 permalink: /census/
 cover-id: 00011ci
 ---

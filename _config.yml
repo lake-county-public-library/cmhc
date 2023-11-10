@@ -87,6 +87,13 @@ collections:
       source: 'census.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/census' # path to the directory of images within `_data`
+  life: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'cmhc_item' # the layout for the pages to use
+    metadata:
+      source: 'life.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/life' # path to the directory of images within `_data`
 
 
 # --------------------------------------------------------------
@@ -133,6 +140,16 @@ search:
           - description
           - text
           - pid
+  life:
+    index: '/search/life.json' # file the index will get written to
+    collections:
+      life:
+        content: false
+        fields:
+          - keywords
+          - description
+          - text
+          - pid
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -152,6 +169,8 @@ menu:
         link: '/directories/'
       - label: 'Census Indices'
         link: '/census/'
+      - label: 'Marriage, Divorice, Probate Indices'
+        link: '/life/'
   - label: 'Map'
     link: '/map/'
   - label: 'Search'
