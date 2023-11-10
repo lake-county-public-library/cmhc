@@ -15,7 +15,7 @@ Welcome to the new Colorado Mountain History Digital Collection! We are working 
 ### Browse the Collection
 
 {% include collections_gallery.html
-	collection_names='cmhc,directories,census'
+	collection_names='cmhc,directories,census,life'
 	facet='pid' %}
 
 # Colorado Mountain History Collection
