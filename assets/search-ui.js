@@ -44,7 +44,7 @@ function startSearchUI(fields, indexFile, url) {
     for (i in fields) { index.addField(fields[i]); }
     for (i in store)  { index.addDoc(store[i]); }
 
-    $('input#search').on('keyup',  delay(function() {
+    $('input#search').on('keyup', function() {
       var results_div = $('#results');
       var query       = $(this).val();
       var results     = index.search(query, { boolean: 'AND', expand: true });
@@ -59,18 +59,6 @@ function startSearchUI(fields, indexFile, url) {
 
         results_div.append(result);
       }
-    }, 800));
+    });
   });
-}
-
-// Added by awoods to delay search on keyup in search box
-function delay(callback, ms) {
-  var timer = 0;
-  return function() {
-    var context = this, args = arguments;
-    clearTimeout(timer);
-    timer = setTimeout(function () {
-      callback.apply(context, args);
-    }, ms || 0);
-  };
 }
