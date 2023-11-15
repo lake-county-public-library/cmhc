@@ -192,6 +192,16 @@ search box
 
 
 .search-block{
+  #search-button{
+    border-style: groove;
+    border-width: 2px;
+    margin-bottom: $more-margin;
+    &:focus {
+        box-shadow: none ;
+        border-color: $neutral;
+    }
+  }
+
   #results {
     .result {
       a {

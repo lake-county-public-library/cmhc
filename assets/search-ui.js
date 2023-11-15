@@ -46,9 +46,19 @@ function startSearchUI(fields, indexFile, url) {
     for (i in fields) { index.addField(fields[i]); }
     for (i in store)  { index.addDoc(store[i]); }
 
-    $('input#search').on('keyup', function() {
+    const search_button = document.getElementById("search-button");
+    search_button.addEventListener('click', do_search);
+
+    const search_field = document.getElementById("search");
+    search_field.addEventListener('keydown', function(event) {
+      if (event.key === 'Enter') {
+        do_search(event);
+      }
+    });
+
+    function do_search(event) {
       var results_div = $('#results');
-      var query       = $(this).val();
+      var query       = document.getElementById("search").value;
       var results     = index.search(query, { bool: 'AND', expand: true });
 
       results_div.empty();
@@ -61,6 +71,6 @@ function startSearchUI(fields, indexFile, url) {
 
         results_div.append(result);
       }
-    });
+    }
   });
 }
