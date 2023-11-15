@@ -224,28 +224,52 @@ search box
   margin-bottom: $margin;
 }
 
-#loader {
-    border: 12px solid #f3f3f3;
-    border-radius: 50%;
-    border-top: 12px solid #444444;
-    width: 70px;
-    height: 70px;
-    animation: spin 1s linear infinite;
+.loader {
+  padding: 50px;
+  text-align: center;
 }
 
-.center {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    z-index: 5;
+.loader-text {
+  width: 90px;
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 30px);
+  text-align: center;
+  font-style: italic;
+}
+
+.loader:before {
+  content: "";
+  height: 150px;
+  width: 150px;
+  margin: -15px auto auto -15px;
+  position: absolute;
+  top: calc(50% - 45px);
+  left: calc(50% - 45px);
+  border-width: 20px;
+  border-style: solid;
+  border-color: $text-color #ccc #ccc;
+  border-radius: 100%;
+  animation: rotation .7s infinite linear;
+}
+
+.centered {
+  text-align: center;
+  z-index: 5;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
 
 @keyframes spin {
-    100% {
-        transform: rotate(360deg);
-    }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
