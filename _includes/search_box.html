@@ -11,14 +11,16 @@
 {%- endcapture -%}
 {% assign fields = fields | split: '|||' | uniq %}
 
-<div id="loader-wrapper">
-  <div id="loader" class="center"></div>
-</div>
 <div class='search-block'>
   <div class='input-group'>
     <input type='text' class='form-control' id='search' name='x' placeholder='{{ placeholder }}'>
   </div>
   <div id='results'></div>
+</div>
+<div id="loader-wrapper" class="centered">
+  <div class="loader">
+    <div class="loader-text">Loading Index</div>
+  </div>
 </div>
 
 <script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' | absolute_url }}"></script>
@@ -31,6 +33,5 @@
   document.querySelector("#loader-wrapper").style.visibility = "visible";
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);
-    document.querySelector("#loader-wrapper").style.display= "none";
   });
 </script>
