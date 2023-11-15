@@ -36,6 +36,8 @@ function displayResult(item, fields, url) {
 
 function startSearchUI(fields, indexFile, url) {
   $.getJSON(indexFile, function(store) {
+    document.querySelector("#loader-wrapper").style.display= "none";
+
     var index  = new elasticlunr.Index;
 
     index.saveDocument(false);
