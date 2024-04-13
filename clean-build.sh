@@ -13,7 +13,7 @@ if [ -z _site ]; then
 fi
 
 date
-#bundle exec rake wax:derivatives:iiif cmhc
+bundle exec rake wax:derivatives:iiif cmhc
 #bundle exec rake wax:derivatives:iiif directories
 #bundle exec rake wax:derivatives:iiif census
 #bundle exec rake wax:derivatives:iiif life
