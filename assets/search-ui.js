@@ -64,10 +64,17 @@ function startSearchUI(fields, indexFile, url) {
       results_div.empty();
       results_div.append(`<p class="results-info">Displaying ${results.length} results</p>`);
 
+      var items = [];
       for (var r in results) {
         var ref    = results[r].ref;
         var item   = store[ref];
-        var result = displayResult(item, fields, url);
+        items.push(item);
+      }
+
+      // Sort by PID, ignoring ranking score
+      items.sort((a, b) => a.pid.localeCompare(b.pid));
+      for (var i in items) {
+        var result = displayResult(items[i], fields, url);
 
         results_div.append(result);
       }
