@@ -26,6 +26,6 @@ Researchers are welcome to utilize the collection during business hours. Library
 
 For those unable to come to Leadville, our local history staff can perform limited searches for you. Due to the volume of requests we receive, please allow at least 12-14 business days for a response to your request. Requests are processed in the order in which they are received. Please include as much information in your request as possible that will assist in expediting the search, including resources/records already searched/found.  
  
-Research is performed within the resources we hold; we do not perform research at other sites, including churches, other libraries, etc. We also cannot handle extensive requests, i.e. researching an entire family line, or tracing the entire history of a building or house.
+Research is performed within the resources we hold; we do not perform research at other sites, including churches, other libraries, etc. We also cannot handle extensive requests, i.e. researching an entire family line, or tracing the entire history of a building or house. Researchers are on site Mon-Fri 10-5. If you need a weekend appointment please email to check availability.
  
 Contact Jennifer Marruffo with your inquiries by emailing <a href="mailto:jennifer@lakecountypubliclibrary.org">jennifer@lakecountypubliclibrary.org</a> or by calling <a href="tel:719-486-0569">719-486-0569</a>.
