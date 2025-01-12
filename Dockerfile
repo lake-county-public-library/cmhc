@@ -10,6 +10,7 @@ RUN apt-get install -y git
 RUN apt-get install -y ghostscript
 RUN apt-get install -y imagemagick
 RUN apt-get install -y libvips
+RUN apt-get install -y vim
 
 # Add imagemagick PDF fix
 RUN sed -i '/disable ghostscript format types/,+6d' /etc/ImageMagick-6/policy.xml
@@ -21,6 +22,7 @@ ENV LANG en_US.utf8
 
 RUN mkdir /app
 COPY Gemfile* *.gemspec ./app
+COPY policy.xml /etc/ImageMagick-6/policy.xml
 WORKDIR /app
 
 RUN useradd --create-home MARMOT+awoods
